@@ -25,6 +25,7 @@ COMPETITIONS = {
     "BL1": ("Bundesliga", "1ª Divisão"),
     "SA":  ("Serie A", "1ª Divisão"),
     "FL1": ("Ligue 1", "1ª Divisão"),
+    "PPL": ("Primeira Liga", "1ª Divisão"),
     "BSA": ("Brasileirão", "Série A"),
     "CL":  ("Champions League", "Fase de Liga"),
 }
