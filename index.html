@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Scoreboard — Estatísticas de Futebol</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Roboto+Mono:wght@400;500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #0B1F17;
+    --panel: #12261C;
+    --panel-2: #16301F;
+    --line: #274A34;
+    --ink: #E8E4D8;
+    --ink-dim: #9FB3A3;
+    --gold: #C9A227;
+    --win: #4A9C6C;
+    --draw: #C9A227;
+    --loss: #B34B3C;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background: var(--bg);
+    background-image:
+      radial-gradient(circle at 20% -10%, rgba(74,156,108,0.08), transparent 40%),
+      repeating-linear-gradient(90deg, rgba(255,255,255,0.015) 0px, rgba(255,255,255,0.015) 1px, transparent 1px, transparent 80px);
+    color: var(--ink);
+    font-family:'Inter', sans-serif;
+    min-height:100vh;
+    padding: 0 0 60px 0;
+  }
+  .ticker{
+    background: #08140E;
+    border-bottom: 1px solid var(--line);
+    overflow:hidden;
+    white-space:nowrap;
+    padding: 6px 0;
+  }
+  .ticker span{
+    display:inline-block;
+    padding-left:100%;
+    animation: scroll 28s linear infinite;
+    font-family:'Roboto Mono', monospace;
+    font-size:12px;
+    letter-spacing:0.5px;
+    color: var(--gold);
+  }
+  @keyframes scroll{ 0%{transform:translateX(0);} 100%{transform:translateX(-100%);} }
+  header{ max-width: 1100px; margin: 0 auto; padding: 28px 20px 10px; }
+  .eyebrow{ font-family:'Roboto Mono', monospace; font-size:11px; letter-spacing: 2px; color: var(--ink-dim); text-transform:uppercase; }
+  h1{ font-family:'Oswald', sans-serif; font-weight:700; text-transform:uppercase; letter-spacing: 1px; font-size: 34px; margin: 4px 0 4px; }
+  .sub{ color: var(--ink-dim); font-size:14px; max-width: 640px; line-height:1.5; }
+  .banner{ max-width:1100px; margin: 18px auto 0; padding: 14px 18px; background: rgba(201,162,39,0.08); border: 1px solid rgba(201,162,39,0.35); border-radius: 6px; font-size: 13px; color: var(--ink-dim); line-height:1.5; }
+  .banner b{ color: var(--gold); }
+  .tabs{ max-width:1100px; margin: 22px auto 0; padding: 0 20px; display:flex; gap: 6px; flex-wrap:wrap; border-bottom: 1px solid var(--line); }
+  .tab{ font-family:'Oswald', sans-serif; text-transform:uppercase; letter-spacing:0.5px; font-size:13px; padding: 10px 16px; background: transparent; color: var(--ink-dim); border:none; border-bottom: 3px solid transparent; cursor:pointer; }
+  .tab.active{ color: var(--ink); border-bottom-color: var(--gold); }
+  .tab:hover{ color: var(--ink); }
+  .division-toggle{ max-width:1100px; margin: 14px auto 0; padding: 0 20px; display:flex; gap:8px; }
+  .div-btn{ font-family:'Roboto Mono', monospace; font-size:11px; letter-spacing:1px; text-transform:uppercase; padding: 6px 12px; border-radius: 4px; border: 1px solid var(--line); background: var(--panel); color: var(--ink-dim); cursor:pointer; }
+  .div-btn.active{ background: rgba(74,156,108,0.15); color: var(--win); border-color: var(--win); }
+  .wrap{ max-width:1100px; margin: 18px auto; padding: 0 20px; }
+  .table-panel{ background: var(--panel); border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+  table{ width:100%; border-collapse: collapse; font-size: 13px; }
+  thead th{ text-align:left; font-family:'Roboto Mono', monospace; font-size: 10.5px; letter-spacing: 0.8px; text-transform:uppercase; color: var(--ink-dim); padding: 12px 10px; background: var(--panel-2); border-bottom: 1px solid var(--line); white-space:nowrap; }
+  tbody td{ padding: 10px; border-bottom: 1px solid rgba(39,74,52,0.5); font-family:'Roboto Mono', monospace; white-space:nowrap; }
+  tbody tr:hover{ background: rgba(255,255,255,0.02); }
+  .team-cell{ font-family:'Inter', sans-serif; font-weight:600; color: var(--ink); }
+  .pct-cell{ position:relative; min-width:70px; }
+  .bar-bg{ position:absolute; left:10px; right:10px; bottom:3px; height:3px; background: rgba(255,255,255,0.06); border-radius:2px; }
+  .bar-fill{ height:100%; border-radius:2px; }
+  .win-txt{ color: var(--win); }
+  .draw-txt{ color: var(--draw); }
+  .loss-txt{ color: var(--loss); }
+  .legend{ display:flex; gap:18px; flex-wrap:wrap; padding: 10px 20px 0; max-width:1100px; margin:0 auto; font-size:11px; color: var(--ink-dim); font-family:'Roboto Mono', monospace; }
+  .legend span b{ color:var(--ink); }
+  footer{ max-width:1100px; margin: 30px auto 0; padding: 16px 20px 0; border-top: 1px solid var(--line); color: var(--ink-dim); font-size: 12px; line-height:1.6; }
+</style>
+</head>
+<body>
+  <div class="ticker"><span>★ SCOREBOARD — PAINEL DE ESTATÍSTICAS DE FUTEBOL — ATUALIZADO AUTOMATICAMENTE TODOS OS DIAS ★</span></div>
+  <header>
+    <div class="eyebrow">Painel de Estatísticas</div>
+    <h1>Scoreboard</h1>
+    <p class="sub">Estatísticas por liga e por divisão — vitórias, empates, derrotas, golos por parte de jogo.</p>
+  </header>
+  <div class="banner" id="statusBanner">A carregar dados...</div>
+  <div class="tabs" id="leagueTabs"></div>
+  <div class="division-toggle" id="divToggle"></div>
+  <div class="legend">
+    <span>V / E / D <b>= vitórias / empates / derrotas (%)</b></span>
+    <span>G/J <b>= golos marcados por jogo</b></span>
+    <span>1ªP / 2ªP <b>= % dos golos marcados em cada parte</b></span>
+    <span>+2.5 <b>= % jogos com mais de 2.5 golos</b></span>
+    <span>BTTS <b>= % jogos em que ambas equipas marcam</b></span>
+  </div>
+  <div class="wrap">
+    <div class="table-panel">
+      <table>
+        <thead>
+          <tr>
+            <th>#</th><th>Equipa</th><th>V%</th><th>E%</th><th>D%</th>
+            <th>G/J</th><th>Sofridos/J</th><th>1ªP%</th><th>2ªP%</th><th>+2.5 gols%</th><th>BTTS%</th>
+          </tr>
+        </thead>
+        <tbody id="tableBody"></tbody>
+      </table>
+    </div>
+  </div>
+  <footer>Dados calculados a partir dos jogos terminados desta época, via football-data.org. Atualização automática diária via GitHub Actions.</footer>
+
+<script>
+let LEAGUES = {};
+let currentLeague = "";
+let currentDiv = "";
+
+function renderTabs(){
+  const tabsEl = document.getElementById('leagueTabs');
+  tabsEl.innerHTML = '';
+  Object.keys(LEAGUES).forEach(lg=>{
+    const b = document.createElement('button');
+    b.className = 'tab' + (lg===currentLeague ? ' active' : '');
+    b.textContent = lg;
+    b.onclick = () => { currentLeague = lg; currentDiv = Object.keys(LEAGUES[lg])[0]; renderTabs(); renderDivs(); renderTable(); };
+    tabsEl.appendChild(b);
+  });
+}
+function renderDivs(){
+  const el = document.getElementById('divToggle');
+  el.innerHTML = '';
+  if(!LEAGUES[currentLeague]) return;
+  Object.keys(LEAGUES[currentLeague]).forEach(d=>{
+    const b = document.createElement('button');
+    b.className = 'div-btn' + (d===currentDiv ? ' active' : '');
+    b.textContent = d;
+    b.onclick = () => { currentDiv = d; renderDivs(); renderTable(); };
+    el.appendChild(b);
+  });
+}
+function barCell(val, colorVar){ return `<div class="bar-bg"><div class="bar-fill" style="width:${val}%; background:${colorVar}"></div></div>`; }
+function renderTable(){
+  const body = document.getElementById('tableBody');
+  body.innerHTML = '';
+  const rows = (LEAGUES[currentLeague] && LEAGUES[currentLeague][currentDiv]) || [];
+  rows.forEach((r, idx)=>{
+    const tr = document.createElement('tr');
+    tr.innerHTML = `
+      <td>${idx+1}</td>
+      <td class="team-cell">${r.t}</td>
+      <td class="pct-cell win-txt">${r.v}%${barCell(r.v,'var(--win)')}</td>
+      <td class="pct-cell draw-txt">${r.e}%${barCell(r.e,'var(--draw)')}</td>
+      <td class="pct-cell loss-txt">${r.d}%${barCell(r.d,'var(--loss)')}</td>
+      <td>${r.gm}</td><td>${r.gs}</td><td>${r.p1}%</td><td>${r.p2}%</td><td>${r.o25}%</td><td>${r.btts}%</td>
+    `;
+    body.appendChild(tr);
+  });
+}
+async function loadRealData(){
+  try{
+    const res = await fetch('data/data.json?_=' + Date.now());
+    if(!res.ok) throw new Error('sem dados ainda');
+    const real = await res.json();
+    LEAGUES = real;
+    document.getElementById('statusBanner').innerHTML = '<b>Dados reais</b> — calculados a partir dos jogos terminados desta época.';
+  }catch(err){
+    document.getElementById('statusBanner').innerHTML = '<b>Ainda sem dados.</b> A primeira atualização automática ainda não correu — volta depois de ativares o GitHub Actions.';
+  }
+}
+(async function init(){
+  await loadRealData();
+  const leagues = Object.keys(LEAGUES);
+  if(leagues.length){
+    currentLeague = leagues[0];
+    currentDiv = Object.keys(LEAGUES[currentLeague])[0];
+  }
+  renderTabs(); renderDivs(); renderTable();
+})();
+</script>
+</body>
+</html>
