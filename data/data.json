@@ -643,12 +643,12 @@
         "e": 0,
         "d": 0,
         "gm": 2.0,
-        "gs": 1.0,
+        "gs": 0.5,
         "p1": 0,
         "p2": 100,
-        "o25": 100,
-        "btts": 100,
-        "jogos_analisados": 1
+        "o25": 50,
+        "btts": 50,
+        "jogos_analisados": 2
       },
       {
         "t": "SS Lazio",
@@ -765,7 +765,7 @@
         "p2": 0,
         "o25": 0,
         "btts": 0,
-        "jogos_analisados": 1
+        "jogos_analisados": 2
       },
       {
         "t": "US Sassuolo Calcio",
