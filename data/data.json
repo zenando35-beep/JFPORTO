@@ -1522,16 +1522,16 @@
       },
       {
         "t": "CR Flamengo",
-        "v": 58,
-        "e": 25,
-        "d": 17,
+        "v": 60,
+        "e": 24,
+        "d": 16,
         "gm": 2.0,
-        "gs": 0.88,
-        "p1": 42,
-        "p2": 58,
-        "o25": 62,
-        "btts": 50,
-        "jogos_analisados": 24
+        "gs": 0.84,
+        "p1": 44,
+        "p2": 56,
+        "o25": 60,
+        "btts": 48,
+        "jogos_analisados": 25
       },
       {
         "t": "CA Paranaense",
@@ -1703,19 +1703,6 @@
         "jogos_analisados": 24
       },
       {
-        "t": "Mirassol FC",
-        "v": 25,
-        "e": 29,
-        "d": 46,
-        "gm": 1.12,
-        "gs": 1.54,
-        "p1": 63,
-        "p2": 37,
-        "o25": 54,
-        "btts": 71,
-        "jogos_analisados": 24
-      },
-      {
         "t": "CR Vasco da Gama",
         "v": 25,
         "e": 29,
@@ -1727,6 +1714,19 @@
         "o25": 58,
         "btts": 67,
         "jogos_analisados": 24
+      },
+      {
+        "t": "Mirassol FC",
+        "v": 24,
+        "e": 28,
+        "d": 48,
+        "gm": 1.08,
+        "gs": 1.56,
+        "p1": 63,
+        "p2": 37,
+        "o25": 52,
+        "btts": 68,
+        "jogos_analisados": 25
       },
       {
         "t": "SC Internacional",
