@@ -422,19 +422,6 @@
         "jogos_analisados": 3
       },
       {
-        "t": "Real Sociedad de Fútbol",
-        "v": 33,
-        "e": 0,
-        "d": 67,
-        "gm": 1.0,
-        "gs": 2.0,
-        "p1": 67,
-        "p2": 33,
-        "o25": 67,
-        "btts": 67,
-        "jogos_analisados": 3
-      },
-      {
         "t": "Athletic Club",
         "v": 33,
         "e": 0,
@@ -446,6 +433,19 @@
         "o25": 33,
         "btts": 33,
         "jogos_analisados": 3
+      },
+      {
+        "t": "Real Sociedad de Fútbol",
+        "v": 25,
+        "e": 25,
+        "d": 50,
+        "gm": 0.75,
+        "gs": 1.5,
+        "p1": 67,
+        "p2": 33,
+        "o25": 50,
+        "btts": 50,
+        "jogos_analisados": 4
       },
       {
         "t": "Rayo Vallecano de Madrid",
@@ -515,15 +515,15 @@
       {
         "t": "RC Celta de Vigo",
         "v": 0,
-        "e": 33,
-        "d": 67,
-        "gm": 0.33,
-        "gs": 1.33,
+        "e": 50,
+        "d": 50,
+        "gm": 0.25,
+        "gs": 1.0,
         "p1": 100,
         "p2": 0,
-        "o25": 33,
-        "btts": 33,
-        "jogos_analisados": 3
+        "o25": 25,
+        "btts": 25,
+        "jogos_analisados": 4
       }
     ]
   },
@@ -1045,6 +1045,19 @@
         "jogos_analisados": 2
       },
       {
+        "t": "Lille OSC",
+        "v": 67,
+        "e": 33,
+        "d": 0,
+        "gm": 1.67,
+        "gs": 0.67,
+        "p1": 60,
+        "p2": 40,
+        "o25": 33,
+        "btts": 33,
+        "jogos_analisados": 3
+      },
+      {
         "t": "Olympique de Marseille",
         "v": 50,
         "e": 0,
@@ -1136,19 +1149,6 @@
         "jogos_analisados": 2
       },
       {
-        "t": "Lille OSC",
-        "v": 50,
-        "e": 50,
-        "d": 0,
-        "gm": 2.0,
-        "gs": 1.0,
-        "p1": 75,
-        "p2": 25,
-        "o25": 50,
-        "btts": 50,
-        "jogos_analisados": 2
-      },
-      {
         "t": "Stade Rennais FC 1901",
         "v": 50,
         "e": 50,
@@ -1229,15 +1229,15 @@
       {
         "t": "Toulouse FC",
         "v": 0,
-        "e": 50,
-        "d": 50,
-        "gm": 1.0,
-        "gs": 2.0,
+        "e": 33,
+        "d": 67,
+        "gm": 0.67,
+        "gs": 1.67,
         "p1": 50,
         "p2": 50,
-        "o25": 50,
-        "btts": 50,
-        "jogos_analisados": 2
+        "o25": 33,
+        "btts": 33,
+        "jogos_analisados": 3
       },
       {
         "t": "Le Havre AC",
