@@ -67,19 +67,6 @@
         "jogos_analisados": 2
       },
       {
-        "t": "Ipswich Town FC",
-        "v": 50,
-        "e": 0,
-        "d": 50,
-        "gm": 2.0,
-        "gs": 3.0,
-        "p1": 50,
-        "p2": 50,
-        "o25": 100,
-        "btts": 100,
-        "jogos_analisados": 2
-      },
-      {
         "t": "Sunderland AFC",
         "v": 50,
         "e": 0,
@@ -156,6 +143,32 @@
         "o25": 50,
         "btts": 50,
         "jogos_analisados": 2
+      },
+      {
+        "t": "Ipswich Town FC",
+        "v": 33,
+        "e": 0,
+        "d": 67,
+        "gm": 1.33,
+        "gs": 2.67,
+        "p1": 50,
+        "p2": 50,
+        "o25": 67,
+        "btts": 67,
+        "jogos_analisados": 3
+      },
+      {
+        "t": "Liverpool FC",
+        "v": 33,
+        "e": 67,
+        "d": 0,
+        "gm": 2.0,
+        "gs": 1.33,
+        "p1": 33,
+        "p2": 67,
+        "o25": 67,
+        "btts": 67,
+        "jogos_analisados": 3
       },
       {
         "t": "Coventry City FC",
@@ -236,19 +249,6 @@
         "jogos_analisados": 2
       },
       {
-        "t": "Liverpool FC",
-        "v": 0,
-        "e": 100,
-        "d": 0,
-        "gm": 2.0,
-        "gs": 2.0,
-        "p1": 0,
-        "p2": 100,
-        "o25": 100,
-        "btts": 100,
-        "jogos_analisados": 2
-      },
-      {
         "t": "Fulham FC",
         "v": 0,
         "e": 0,
@@ -266,19 +266,6 @@
   "La Liga": {
     "1ª Divisão": [
       {
-        "t": "Real Madrid CF",
-        "v": 100,
-        "e": 0,
-        "d": 0,
-        "gm": 3.33,
-        "gs": 0.67,
-        "p1": 50,
-        "p2": 50,
-        "o25": 100,
-        "btts": 67,
-        "jogos_analisados": 3
-      },
-      {
         "t": "FC Barcelona",
         "v": 100,
         "e": 0,
@@ -290,6 +277,32 @@
         "o25": 67,
         "btts": 33,
         "jogos_analisados": 3
+      },
+      {
+        "t": "Real Betis Balompié",
+        "v": 75,
+        "e": 0,
+        "d": 25,
+        "gm": 1.25,
+        "gs": 1.25,
+        "p1": 40,
+        "p2": 60,
+        "o25": 25,
+        "btts": 25,
+        "jogos_analisados": 4
+      },
+      {
+        "t": "Real Madrid CF",
+        "v": 75,
+        "e": 0,
+        "d": 25,
+        "gm": 2.5,
+        "gs": 0.75,
+        "p1": 50,
+        "p2": 50,
+        "o25": 75,
+        "btts": 50,
+        "jogos_analisados": 4
       },
       {
         "t": "Deportivo Alavés",
@@ -328,19 +341,6 @@
         "p2": 57,
         "o25": 67,
         "btts": 67,
-        "jogos_analisados": 3
-      },
-      {
-        "t": "Real Betis Balompié",
-        "v": 67,
-        "e": 0,
-        "d": 33,
-        "gm": 1.33,
-        "gs": 1.67,
-        "p1": 50,
-        "p2": 50,
-        "o25": 33,
-        "btts": 33,
         "jogos_analisados": 3
       },
       {
@@ -569,19 +569,6 @@
         "jogos_analisados": 1
       },
       {
-        "t": "1. FC Köln",
-        "v": 100,
-        "e": 0,
-        "d": 0,
-        "gm": 3.0,
-        "gs": 2.0,
-        "p1": 0,
-        "p2": 100,
-        "o25": 100,
-        "btts": 100,
-        "jogos_analisados": 1
-      },
-      {
         "t": "Borussia Dortmund",
         "v": 100,
         "e": 0,
@@ -622,16 +609,29 @@
       },
       {
         "t": "VfB Stuttgart",
-        "v": 0,
+        "v": 50,
         "e": 0,
-        "d": 100,
-        "gm": 1.0,
-        "gs": 5.0,
+        "d": 50,
+        "gm": 2.5,
+        "gs": 3.0,
+        "p1": 20,
+        "p2": 80,
+        "o25": 100,
+        "btts": 100,
+        "jogos_analisados": 2
+      },
+      {
+        "t": "1. FC Köln",
+        "v": 50,
+        "e": 0,
+        "d": 50,
+        "gm": 2.0,
+        "gs": 3.0,
         "p1": 0,
         "p2": 100,
         "o25": 100,
         "btts": 100,
-        "jogos_analisados": 1
+        "jogos_analisados": 2
       },
       {
         "t": "Borussia Mönchengladbach",
@@ -846,6 +846,19 @@
         "jogos_analisados": 2
       },
       {
+        "t": "Como 1907",
+        "v": 67,
+        "e": 33,
+        "d": 0,
+        "gm": 2.33,
+        "gs": 1.0,
+        "p1": 71,
+        "p2": 29,
+        "o25": 67,
+        "btts": 100,
+        "jogos_analisados": 3
+      },
+      {
         "t": "Udinese Calcio",
         "v": 50,
         "e": 50,
@@ -854,19 +867,6 @@
         "gs": 1.5,
         "p1": 100,
         "p2": 0,
-        "o25": 50,
-        "btts": 100,
-        "jogos_analisados": 2
-      },
-      {
-        "t": "Como 1907",
-        "v": 50,
-        "e": 50,
-        "d": 0,
-        "gm": 1.5,
-        "gs": 1.0,
-        "p1": 67,
-        "p2": 33,
         "o25": 50,
         "btts": 100,
         "jogos_analisados": 2
@@ -954,13 +954,13 @@
         "v": 0,
         "e": 0,
         "d": 100,
-        "gm": 0.0,
-        "gs": 1.5,
-        "p1": 0,
+        "gm": 0.33,
+        "gs": 2.33,
+        "p1": 100,
         "p2": 0,
-        "o25": 0,
-        "btts": 0,
-        "jogos_analisados": 2
+        "o25": 33,
+        "btts": 33,
+        "jogos_analisados": 3
       },
       {
         "t": "Parma Calcio 1913",
@@ -1036,13 +1036,26 @@
         "v": 100,
         "e": 0,
         "d": 0,
-        "gm": 1.5,
-        "gs": 0.0,
-        "p1": 67,
-        "p2": 33,
-        "o25": 0,
-        "btts": 0,
-        "jogos_analisados": 2
+        "gm": 1.67,
+        "gs": 0.33,
+        "p1": 40,
+        "p2": 60,
+        "o25": 33,
+        "btts": 33,
+        "jogos_analisados": 3
+      },
+      {
+        "t": "Olympique Lyonnais",
+        "v": 67,
+        "e": 33,
+        "d": 0,
+        "gm": 2.0,
+        "gs": 0.67,
+        "p1": 33,
+        "p2": 67,
+        "o25": 33,
+        "btts": 67,
+        "jogos_analisados": 3
       },
       {
         "t": "Lille OSC",
@@ -1123,19 +1136,6 @@
         "jogos_analisados": 2
       },
       {
-        "t": "Olympique Lyonnais",
-        "v": 50,
-        "e": 50,
-        "d": 0,
-        "gm": 1.5,
-        "gs": 0.5,
-        "p1": 0,
-        "p2": 100,
-        "o25": 0,
-        "btts": 50,
-        "jogos_analisados": 2
-      },
-      {
         "t": "Angers SCO",
         "v": 50,
         "e": 0,
@@ -1166,13 +1166,13 @@
         "v": 0,
         "e": 0,
         "d": 100,
-        "gm": 1.5,
-        "gs": 4.0,
-        "p1": 33,
-        "p2": 67,
+        "gm": 1.33,
+        "gs": 3.67,
+        "p1": 50,
+        "p2": 50,
         "o25": 100,
         "btts": 100,
-        "jogos_analisados": 2
+        "jogos_analisados": 3
       },
       {
         "t": "Le Mans FC",
@@ -1255,15 +1255,15 @@
       {
         "t": "Paris Saint-Germain FC",
         "v": 0,
-        "e": 100,
-        "d": 0,
-        "gm": 2.0,
+        "e": 67,
+        "d": 33,
+        "gm": 1.67,
         "gs": 2.0,
-        "p1": 0,
-        "p2": 100,
+        "p1": 20,
+        "p2": 80,
         "o25": 100,
         "btts": 100,
-        "jogos_analisados": 2
+        "jogos_analisados": 3
       }
     ]
   },
@@ -1274,13 +1274,13 @@
         "v": 100,
         "e": 0,
         "d": 0,
-        "gm": 2.25,
-        "gs": 0.0,
-        "p1": 67,
-        "p2": 33,
-        "o25": 25,
-        "btts": 0,
-        "jogos_analisados": 4
+        "gm": 2.2,
+        "gs": 0.2,
+        "p1": 64,
+        "p2": 36,
+        "o25": 40,
+        "btts": 20,
+        "jogos_analisados": 5
       },
       {
         "t": "FC Arouca",
@@ -1387,19 +1387,6 @@
         "jogos_analisados": 3
       },
       {
-        "t": "Moreirense FC",
-        "v": 33,
-        "e": 33,
-        "d": 33,
-        "gm": 1.0,
-        "gs": 2.0,
-        "p1": 67,
-        "p2": 33,
-        "o25": 67,
-        "btts": 33,
-        "jogos_analisados": 3
-      },
-      {
         "t": "Vitória SC",
         "v": 25,
         "e": 0,
@@ -1410,6 +1397,19 @@
         "p2": 67,
         "o25": 25,
         "btts": 25,
+        "jogos_analisados": 4
+      },
+      {
+        "t": "Moreirense FC",
+        "v": 25,
+        "e": 25,
+        "d": 50,
+        "gm": 1.0,
+        "gs": 2.0,
+        "p1": 75,
+        "p2": 25,
+        "o25": 75,
+        "btts": 50,
         "jogos_analisados": 4
       },
       {
