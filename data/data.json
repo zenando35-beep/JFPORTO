@@ -383,17 +383,30 @@
         "jogos_analisados": 4
       },
       {
+        "t": "Real Sociedad de Fútbol",
+        "v": 40,
+        "e": 20,
+        "d": 40,
+        "gm": 1.2,
+        "gs": 1.6,
+        "p1": 67,
+        "p2": 33,
+        "o25": 60,
+        "btts": 60,
+        "jogos_analisados": 5
+      },
+      {
         "t": "Getafe CF",
-        "v": 33,
-        "e": 0,
-        "d": 67,
-        "gm": 0.33,
-        "gs": 1.33,
-        "p1": 0,
-        "p2": 100,
-        "o25": 33,
-        "btts": 0,
-        "jogos_analisados": 3
+        "v": 25,
+        "e": 25,
+        "d": 50,
+        "gm": 0.5,
+        "gs": 1.25,
+        "p1": 50,
+        "p2": 50,
+        "o25": 25,
+        "btts": 25,
+        "jogos_analisados": 4
       },
       {
         "t": "Rayo Vallecano de Madrid",
@@ -448,19 +461,6 @@
         "jogos_analisados": 4
       },
       {
-        "t": "Real Sociedad de Fútbol",
-        "v": 25,
-        "e": 25,
-        "d": 50,
-        "gm": 0.75,
-        "gs": 1.5,
-        "p1": 67,
-        "p2": 33,
-        "o25": 50,
-        "btts": 50,
-        "jogos_analisados": 4
-      },
-      {
         "t": "Villarreal CF",
         "v": 0,
         "e": 50,
@@ -476,15 +476,15 @@
       {
         "t": "Elche CF",
         "v": 0,
-        "e": 33,
-        "d": 67,
-        "gm": 1.0,
+        "e": 25,
+        "d": 75,
+        "gm": 1.25,
         "gs": 3.0,
         "p1": 0,
         "p2": 100,
-        "o25": 67,
-        "btts": 67,
-        "jogos_analisados": 3
+        "o25": 75,
+        "btts": 75,
+        "jogos_analisados": 4
       },
       {
         "t": "Málaga CF",
@@ -515,15 +515,15 @@
       {
         "t": "RC Celta de Vigo",
         "v": 0,
-        "e": 50,
-        "d": 50,
-        "gm": 0.25,
+        "e": 60,
+        "d": 40,
+        "gm": 0.4,
         "gs": 1.0,
-        "p1": 100,
-        "p2": 0,
-        "o25": 25,
-        "btts": 25,
-        "jogos_analisados": 4
+        "p1": 50,
+        "p2": 50,
+        "o25": 20,
+        "btts": 40,
+        "jogos_analisados": 5
       }
     ]
   },
@@ -785,13 +785,13 @@
         "v": 100,
         "e": 0,
         "d": 0,
-        "gm": 1.0,
-        "gs": 0.0,
-        "p1": 50,
-        "p2": 50,
-        "o25": 0,
-        "btts": 0,
-        "jogos_analisados": 2
+        "gm": 1.33,
+        "gs": 0.33,
+        "p1": 25,
+        "p2": 75,
+        "o25": 33,
+        "btts": 33,
+        "jogos_analisados": 3
       },
       {
         "t": "AS Roma",
@@ -817,6 +817,19 @@
         "p2": 29,
         "o25": 67,
         "btts": 100,
+        "jogos_analisados": 3
+      },
+      {
+        "t": "Cagliari Calcio",
+        "v": 67,
+        "e": 0,
+        "d": 33,
+        "gm": 0.67,
+        "gs": 0.33,
+        "p1": 50,
+        "p2": 50,
+        "o25": 0,
+        "btts": 0,
         "jogos_analisados": 3
       },
       {
@@ -873,42 +886,16 @@
       },
       {
         "t": "Udinese Calcio",
-        "v": 50,
-        "e": 50,
-        "d": 0,
-        "gm": 2.0,
-        "gs": 1.5,
-        "p1": 100,
-        "p2": 0,
-        "o25": 50,
+        "v": 33,
+        "e": 33,
+        "d": 33,
+        "gm": 1.67,
+        "gs": 1.67,
+        "p1": 80,
+        "p2": 20,
+        "o25": 67,
         "btts": 100,
-        "jogos_analisados": 2
-      },
-      {
-        "t": "Cagliari Calcio",
-        "v": 50,
-        "e": 0,
-        "d": 50,
-        "gm": 0.5,
-        "gs": 0.5,
-        "p1": 0,
-        "p2": 100,
-        "o25": 0,
-        "btts": 0,
-        "jogos_analisados": 2
-      },
-      {
-        "t": "US Lecce",
-        "v": 50,
-        "e": 0,
-        "d": 50,
-        "gm": 1.0,
-        "gs": 2.0,
-        "p1": 0,
-        "p2": 100,
-        "o25": 50,
-        "btts": 0,
-        "jogos_analisados": 2
+        "jogos_analisados": 3
       },
       {
         "t": "SSC Napoli",
@@ -921,6 +908,19 @@
         "p2": 80,
         "o25": 67,
         "btts": 67,
+        "jogos_analisados": 3
+      },
+      {
+        "t": "US Lecce",
+        "v": 33,
+        "e": 0,
+        "d": 67,
+        "gm": 0.67,
+        "gs": 1.67,
+        "p1": 0,
+        "p2": 100,
+        "o25": 33,
+        "btts": 0,
         "jogos_analisados": 3
       },
       {
@@ -1296,19 +1296,6 @@
         "jogos_analisados": 5
       },
       {
-        "t": "FC Arouca",
-        "v": 75,
-        "e": 0,
-        "d": 25,
-        "gm": 1.75,
-        "gs": 0.75,
-        "p1": 57,
-        "p2": 43,
-        "o25": 50,
-        "btts": 25,
-        "jogos_analisados": 4
-      },
-      {
         "t": "Sport Lisboa e Benfica",
         "v": 75,
         "e": 25,
@@ -1333,6 +1320,19 @@
         "o25": 67,
         "btts": 67,
         "jogos_analisados": 3
+      },
+      {
+        "t": "FC Arouca",
+        "v": 60,
+        "e": 20,
+        "d": 20,
+        "gm": 1.4,
+        "gs": 0.6,
+        "p1": 57,
+        "p2": 43,
+        "o25": 40,
+        "btts": 20,
+        "jogos_analisados": 5
       },
       {
         "t": "CD Santa Clara",
@@ -1454,15 +1454,15 @@
       {
         "t": "GD Estoril Praia",
         "v": 0,
-        "e": 25,
-        "d": 75,
-        "gm": 0.5,
-        "gs": 1.75,
+        "e": 40,
+        "d": 60,
+        "gm": 0.4,
+        "gs": 1.4,
         "p1": 0,
         "p2": 100,
-        "o25": 25,
-        "btts": 50,
-        "jogos_analisados": 4
+        "o25": 20,
+        "btts": 40,
+        "jogos_analisados": 5
       },
       {
         "t": "FC Famalicão",
@@ -1639,16 +1639,16 @@
       },
       {
         "t": "EC Vitória",
-        "v": 32,
-        "e": 20,
-        "d": 48,
+        "v": 35,
+        "e": 19,
+        "d": 46,
         "gm": 0.96,
-        "gs": 1.48,
-        "p1": 38,
-        "p2": 62,
-        "o25": 36,
-        "btts": 36,
-        "jogos_analisados": 25
+        "gs": 1.42,
+        "p1": 36,
+        "p2": 64,
+        "o25": 35,
+        "btts": 35,
+        "jogos_analisados": 26
       },
       {
         "t": "Santos FC",
@@ -1691,16 +1691,16 @@
       },
       {
         "t": "Grêmio FBPA",
-        "v": 29,
-        "e": 29,
-        "d": 42,
-        "gm": 1.12,
-        "gs": 1.33,
+        "v": 28,
+        "e": 28,
+        "d": 44,
+        "gm": 1.08,
+        "gs": 1.32,
         "p1": 37,
         "p2": 63,
-        "o25": 46,
-        "btts": 58,
-        "jogos_analisados": 24
+        "o25": 44,
+        "btts": 56,
+        "jogos_analisados": 25
       },
       {
         "t": "Mirassol FC",
