@@ -1770,6 +1770,163 @@
     ]
   },
   "Champions League": {
-    "Fase de Liga": []
+    "Fase de Liga": [
+      {
+        "t": "Aston Villa FC",
+        "v": 100,
+        "e": 0,
+        "d": 0,
+        "gm": 3.0,
+        "gs": 2.0,
+        "p1": 100,
+        "p2": 0,
+        "o25": 100,
+        "btts": 100,
+        "jogos_analisados": 1
+      },
+      {
+        "t": "PAE AEK",
+        "v": 100,
+        "e": 0,
+        "d": 0,
+        "gm": 1.0,
+        "gs": 0.0,
+        "p1": 100,
+        "p2": 0,
+        "o25": 0,
+        "btts": 0,
+        "jogos_analisados": 1
+      },
+      {
+        "t": "Real Madrid CF",
+        "v": 100,
+        "e": 0,
+        "d": 0,
+        "gm": 2.0,
+        "gs": 1.0,
+        "p1": 100,
+        "p2": 0,
+        "o25": 100,
+        "btts": 100,
+        "jogos_analisados": 1
+      },
+      {
+        "t": "Manchester City FC",
+        "v": 100,
+        "e": 0,
+        "d": 0,
+        "gm": 2.0,
+        "gs": 0.0,
+        "p1": 0,
+        "p2": 100,
+        "o25": 0,
+        "btts": 0,
+        "jogos_analisados": 1
+      },
+      {
+        "t": "Borussia Dortmund",
+        "v": 100,
+        "e": 0,
+        "d": 0,
+        "gm": 3.0,
+        "gs": 2.0,
+        "p1": 0,
+        "p2": 100,
+        "o25": 100,
+        "btts": 100,
+        "jogos_analisados": 1
+      },
+      {
+        "t": "Real Betis Balompié",
+        "v": 100,
+        "e": 0,
+        "d": 0,
+        "gm": 3.0,
+        "gs": 2.0,
+        "p1": 33,
+        "p2": 67,
+        "o25": 100,
+        "btts": 100,
+        "jogos_analisados": 1
+      },
+      {
+        "t": "Club Brugge KV",
+        "v": 0,
+        "e": 0,
+        "d": 100,
+        "gm": 2.0,
+        "gs": 3.0,
+        "p1": 50,
+        "p2": 50,
+        "o25": 100,
+        "btts": 100,
+        "jogos_analisados": 1
+      },
+      {
+        "t": "LASK Linz",
+        "v": 0,
+        "e": 0,
+        "d": 100,
+        "gm": 0.0,
+        "gs": 1.0,
+        "p1": 0,
+        "p2": 0,
+        "o25": 0,
+        "btts": 0,
+        "jogos_analisados": 1
+      },
+      {
+        "t": "FC Internazionale Milano",
+        "v": 0,
+        "e": 0,
+        "d": 100,
+        "gm": 1.0,
+        "gs": 2.0,
+        "p1": 0,
+        "p2": 100,
+        "o25": 100,
+        "btts": 100,
+        "jogos_analisados": 1
+      },
+      {
+        "t": "FC Porto",
+        "v": 0,
+        "e": 0,
+        "d": 100,
+        "gm": 0.0,
+        "gs": 2.0,
+        "p1": 0,
+        "p2": 0,
+        "o25": 0,
+        "btts": 0,
+        "jogos_analisados": 1
+      },
+      {
+        "t": "Villarreal CF",
+        "v": 0,
+        "e": 0,
+        "d": 100,
+        "gm": 2.0,
+        "gs": 3.0,
+        "p1": 0,
+        "p2": 100,
+        "o25": 100,
+        "btts": 100,
+        "jogos_analisados": 1
+      },
+      {
+        "t": "Lille OSC",
+        "v": 0,
+        "e": 0,
+        "d": 100,
+        "gm": 2.0,
+        "gs": 3.0,
+        "p1": 100,
+        "p2": 0,
+        "o25": 100,
+        "btts": 100,
+        "jogos_analisados": 1
+      }
+    ]
   }
 }
