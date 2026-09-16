@@ -279,6 +279,19 @@
         "jogos_analisados": 5
       },
       {
+        "t": "Real Madrid CF",
+        "v": 83,
+        "e": 0,
+        "d": 17,
+        "gm": 2.83,
+        "gs": 1.0,
+        "p1": 59,
+        "p2": 41,
+        "o25": 83,
+        "btts": 67,
+        "jogos_analisados": 6
+      },
+      {
         "t": "Real Betis Balompié",
         "v": 80,
         "e": 0,
@@ -289,32 +302,6 @@
         "p2": 43,
         "o25": 40,
         "btts": 40,
-        "jogos_analisados": 5
-      },
-      {
-        "t": "Real Madrid CF",
-        "v": 80,
-        "e": 0,
-        "d": 20,
-        "gm": 2.8,
-        "gs": 0.8,
-        "p1": 57,
-        "p2": 43,
-        "o25": 80,
-        "btts": 60,
-        "jogos_analisados": 5
-      },
-      {
-        "t": "Deportivo Alavés",
-        "v": 60,
-        "e": 20,
-        "d": 20,
-        "gm": 2.2,
-        "gs": 1.0,
-        "p1": 36,
-        "p2": 64,
-        "o25": 60,
-        "btts": 60,
         "jogos_analisados": 5
       },
       {
@@ -344,6 +331,19 @@
         "jogos_analisados": 5
       },
       {
+        "t": "Deportivo Alavés",
+        "v": 50,
+        "e": 17,
+        "d": 33,
+        "gm": 1.83,
+        "gs": 1.0,
+        "p1": 36,
+        "p2": 64,
+        "o25": 50,
+        "btts": 50,
+        "jogos_analisados": 6
+      },
+      {
         "t": "Real Racing Club de Santander",
         "v": 40,
         "e": 20,
@@ -354,19 +354,6 @@
         "p2": 11,
         "o25": 80,
         "btts": 80,
-        "jogos_analisados": 5
-      },
-      {
-        "t": "RCD Espanyol de Barcelona",
-        "v": 40,
-        "e": 20,
-        "d": 40,
-        "gm": 1.6,
-        "gs": 1.0,
-        "p1": 75,
-        "p2": 25,
-        "o25": 60,
-        "btts": 60,
         "jogos_analisados": 5
       },
       {
@@ -409,6 +396,32 @@
         "jogos_analisados": 5
       },
       {
+        "t": "Rayo Vallecano de Madrid",
+        "v": 33,
+        "e": 17,
+        "d": 50,
+        "gm": 1.67,
+        "gs": 2.5,
+        "p1": 60,
+        "p2": 40,
+        "o25": 83,
+        "btts": 100,
+        "jogos_analisados": 6
+      },
+      {
+        "t": "RCD Espanyol de Barcelona",
+        "v": 33,
+        "e": 17,
+        "d": 50,
+        "gm": 1.5,
+        "gs": 1.17,
+        "p1": 67,
+        "p2": 33,
+        "o25": 67,
+        "btts": 67,
+        "jogos_analisados": 6
+      },
+      {
         "t": "Real Sociedad de Fútbol",
         "v": 33,
         "e": 17,
@@ -435,19 +448,6 @@
         "jogos_analisados": 5
       },
       {
-        "t": "Rayo Vallecano de Madrid",
-        "v": 20,
-        "e": 20,
-        "d": 60,
-        "gm": 1.6,
-        "gs": 2.8,
-        "p1": 50,
-        "p2": 50,
-        "o25": 80,
-        "btts": 100,
-        "jogos_analisados": 5
-      },
-      {
         "t": "Levante UD",
         "v": 20,
         "e": 40,
@@ -459,6 +459,19 @@
         "o25": 60,
         "btts": 40,
         "jogos_analisados": 5
+      },
+      {
+        "t": "Valencia CF",
+        "v": 17,
+        "e": 17,
+        "d": 67,
+        "gm": 0.33,
+        "gs": 1.67,
+        "p1": 50,
+        "p2": 50,
+        "o25": 33,
+        "btts": 17,
+        "jogos_analisados": 6
       },
       {
         "t": "Villarreal CF",
@@ -476,15 +489,15 @@
       {
         "t": "Elche CF",
         "v": 0,
-        "e": 40,
-        "d": 60,
-        "gm": 1.2,
-        "gs": 2.6,
+        "e": 33,
+        "d": 67,
+        "gm": 1.33,
+        "gs": 2.67,
         "p1": 0,
         "p2": 100,
-        "o25": 60,
-        "btts": 80,
-        "jogos_analisados": 5
+        "o25": 67,
+        "btts": 83,
+        "jogos_analisados": 6
       },
       {
         "t": "Málaga CF",
@@ -497,19 +510,6 @@
         "p2": 50,
         "o25": 20,
         "btts": 40,
-        "jogos_analisados": 5
-      },
-      {
-        "t": "Valencia CF",
-        "v": 0,
-        "e": 20,
-        "d": 80,
-        "gm": 0.2,
-        "gs": 2.0,
-        "p1": 100,
-        "p2": 0,
-        "o25": 40,
-        "btts": 20,
         "jogos_analisados": 5
       },
       {
