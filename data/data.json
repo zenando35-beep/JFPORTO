@@ -270,13 +270,13 @@
         "v": 100,
         "e": 0,
         "d": 0,
-        "gm": 4.2,
-        "gs": 0.8,
-        "p1": 43,
-        "p2": 57,
-        "o25": 80,
-        "btts": 40,
-        "jogos_analisados": 5
+        "gm": 4.67,
+        "gs": 1.0,
+        "p1": 46,
+        "p2": 54,
+        "o25": 83,
+        "btts": 50,
+        "jogos_analisados": 6
       },
       {
         "t": "Real Madrid CF",
@@ -306,29 +306,29 @@
       },
       {
         "t": "Sevilla FC",
-        "v": 60,
-        "e": 20,
-        "d": 20,
-        "gm": 1.6,
-        "gs": 1.2,
-        "p1": 12,
-        "p2": 88,
-        "o25": 60,
-        "btts": 80,
-        "jogos_analisados": 5
+        "v": 67,
+        "e": 17,
+        "d": 17,
+        "gm": 1.5,
+        "gs": 1.0,
+        "p1": 11,
+        "p2": 89,
+        "o25": 50,
+        "btts": 67,
+        "jogos_analisados": 6
       },
       {
         "t": "Club Atlético de Madrid",
-        "v": 60,
-        "e": 20,
-        "d": 20,
-        "gm": 2.0,
-        "gs": 1.2,
-        "p1": 30,
-        "p2": 70,
-        "o25": 80,
-        "btts": 40,
-        "jogos_analisados": 5
+        "v": 67,
+        "e": 17,
+        "d": 17,
+        "gm": 2.33,
+        "gs": 1.0,
+        "p1": 29,
+        "p2": 71,
+        "o25": 83,
+        "btts": 33,
+        "jogos_analisados": 6
       },
       {
         "t": "Deportivo Alavés",
@@ -344,32 +344,6 @@
         "jogos_analisados": 6
       },
       {
-        "t": "Real Racing Club de Santander",
-        "v": 40,
-        "e": 20,
-        "d": 40,
-        "gm": 1.8,
-        "gs": 1.8,
-        "p1": 89,
-        "p2": 11,
-        "o25": 80,
-        "btts": 80,
-        "jogos_analisados": 5
-      },
-      {
-        "t": "RC Deportivo La Coruña",
-        "v": 40,
-        "e": 60,
-        "d": 0,
-        "gm": 1.8,
-        "gs": 1.2,
-        "p1": 56,
-        "p2": 44,
-        "o25": 40,
-        "btts": 100,
-        "jogos_analisados": 5
-      },
-      {
         "t": "Athletic Club",
         "v": 40,
         "e": 20,
@@ -378,19 +352,6 @@
         "gs": 1.2,
         "p1": 29,
         "p2": 71,
-        "o25": 40,
-        "btts": 40,
-        "jogos_analisados": 5
-      },
-      {
-        "t": "CA Osasuna",
-        "v": 40,
-        "e": 20,
-        "d": 40,
-        "gm": 1.0,
-        "gs": 1.6,
-        "p1": 20,
-        "p2": 80,
         "o25": 40,
         "btts": 40,
         "jogos_analisados": 5
@@ -409,6 +370,19 @@
         "jogos_analisados": 6
       },
       {
+        "t": "Real Racing Club de Santander",
+        "v": 33,
+        "e": 17,
+        "d": 50,
+        "gm": 1.83,
+        "gs": 2.67,
+        "p1": 82,
+        "p2": 18,
+        "o25": 83,
+        "btts": 83,
+        "jogos_analisados": 6
+      },
+      {
         "t": "RCD Espanyol de Barcelona",
         "v": 33,
         "e": 17,
@@ -422,6 +396,19 @@
         "jogos_analisados": 6
       },
       {
+        "t": "RC Deportivo La Coruña",
+        "v": 33,
+        "e": 50,
+        "d": 17,
+        "gm": 1.5,
+        "gs": 1.17,
+        "p1": 56,
+        "p2": 44,
+        "o25": 33,
+        "btts": 83,
+        "jogos_analisados": 6
+      },
+      {
         "t": "Real Sociedad de Fútbol",
         "v": 33,
         "e": 17,
@@ -432,6 +419,19 @@
         "p2": 33,
         "o25": 67,
         "btts": 50,
+        "jogos_analisados": 6
+      },
+      {
+        "t": "CA Osasuna",
+        "v": 33,
+        "e": 17,
+        "d": 50,
+        "gm": 0.83,
+        "gs": 2.0,
+        "p1": 20,
+        "p2": 80,
+        "o25": 50,
+        "btts": 33,
         "jogos_analisados": 6
       },
       {
@@ -1665,16 +1665,16 @@
       },
       {
         "t": "Botafogo FR",
-        "v": 31,
-        "e": 31,
-        "d": 38,
-        "gm": 1.46,
-        "gs": 1.58,
-        "p1": 42,
-        "p2": 58,
-        "o25": 65,
-        "btts": 69,
-        "jogos_analisados": 26
+        "v": 33,
+        "e": 30,
+        "d": 37,
+        "gm": 1.52,
+        "gs": 1.59,
+        "p1": 41,
+        "p2": 59,
+        "o25": 67,
+        "btts": 70,
+        "jogos_analisados": 27
       },
       {
         "t": "SC Corinthians Paulista",
@@ -1690,19 +1690,6 @@
         "jogos_analisados": 27
       },
       {
-        "t": "Grêmio FBPA",
-        "v": 27,
-        "e": 27,
-        "d": 46,
-        "gm": 1.08,
-        "gs": 1.35,
-        "p1": 39,
-        "p2": 61,
-        "o25": 46,
-        "btts": 58,
-        "jogos_analisados": 26
-      },
-      {
         "t": "CR Vasco da Gama",
         "v": 27,
         "e": 27,
@@ -1714,6 +1701,19 @@
         "o25": 58,
         "btts": 65,
         "jogos_analisados": 26
+      },
+      {
+        "t": "Grêmio FBPA",
+        "v": 26,
+        "e": 26,
+        "d": 48,
+        "gm": 1.11,
+        "gs": 1.41,
+        "p1": 40,
+        "p2": 60,
+        "o25": 48,
+        "btts": 59,
+        "jogos_analisados": 27
       },
       {
         "t": "Mirassol FC",
