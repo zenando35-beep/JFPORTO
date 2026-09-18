@@ -279,6 +279,19 @@
         "jogos_analisados": 6
       },
       {
+        "t": "Real Betis Balompié",
+        "v": 83,
+        "e": 0,
+        "d": 17,
+        "gm": 1.33,
+        "gs": 1.0,
+        "p1": 62,
+        "p2": 38,
+        "o25": 33,
+        "btts": 33,
+        "jogos_analisados": 6
+      },
+      {
         "t": "Real Madrid CF",
         "v": 83,
         "e": 0,
@@ -290,19 +303,6 @@
         "o25": 83,
         "btts": 67,
         "jogos_analisados": 6
-      },
-      {
-        "t": "Real Betis Balompié",
-        "v": 80,
-        "e": 0,
-        "d": 20,
-        "gm": 1.4,
-        "gs": 1.2,
-        "p1": 57,
-        "p2": 43,
-        "o25": 40,
-        "btts": 40,
-        "jogos_analisados": 5
       },
       {
         "t": "Sevilla FC",
@@ -435,19 +435,6 @@
         "jogos_analisados": 6
       },
       {
-        "t": "Getafe CF",
-        "v": 20,
-        "e": 40,
-        "d": 40,
-        "gm": 0.6,
-        "gs": 1.2,
-        "p1": 33,
-        "p2": 67,
-        "o25": 20,
-        "btts": 40,
-        "jogos_analisados": 5
-      },
-      {
         "t": "Levante UD",
         "v": 20,
         "e": 40,
@@ -461,6 +448,32 @@
         "jogos_analisados": 5
       },
       {
+        "t": "Getafe CF",
+        "v": 17,
+        "e": 33,
+        "d": 50,
+        "gm": 0.5,
+        "gs": 1.17,
+        "p1": 33,
+        "p2": 67,
+        "o25": 17,
+        "btts": 33,
+        "jogos_analisados": 6
+      },
+      {
+        "t": "Villarreal CF",
+        "v": 17,
+        "e": 33,
+        "d": 50,
+        "gm": 1.67,
+        "gs": 1.83,
+        "p1": 60,
+        "p2": 40,
+        "o25": 83,
+        "btts": 83,
+        "jogos_analisados": 6
+      },
+      {
         "t": "Valencia CF",
         "v": 17,
         "e": 17,
@@ -472,19 +485,6 @@
         "o25": 33,
         "btts": 17,
         "jogos_analisados": 6
-      },
-      {
-        "t": "Villarreal CF",
-        "v": 0,
-        "e": 40,
-        "d": 60,
-        "gm": 1.4,
-        "gs": 2.0,
-        "p1": 57,
-        "p2": 43,
-        "o25": 80,
-        "btts": 80,
-        "jogos_analisados": 5
       },
       {
         "t": "Elche CF",
@@ -502,15 +502,15 @@
       {
         "t": "Málaga CF",
         "v": 0,
-        "e": 60,
-        "d": 40,
-        "gm": 0.4,
-        "gs": 1.6,
-        "p1": 50,
-        "p2": 50,
-        "o25": 20,
-        "btts": 40,
-        "jogos_analisados": 5
+        "e": 50,
+        "d": 50,
+        "gm": 0.5,
+        "gs": 1.83,
+        "p1": 67,
+        "p2": 33,
+        "o25": 33,
+        "btts": 50,
+        "jogos_analisados": 6
       },
       {
         "t": "RC Celta de Vigo",
