@@ -1599,6 +1599,19 @@
         "jogos_analisados": 27
       },
       {
+        "t": "Santos FC",
+        "v": 39,
+        "e": 29,
+        "d": 32,
+        "gm": 1.54,
+        "gs": 1.46,
+        "p1": 49,
+        "p2": 51,
+        "o25": 64,
+        "btts": 71,
+        "jogos_analisados": 28
+      },
+      {
         "t": "RB Bragantino",
         "v": 37,
         "e": 22,
@@ -1612,32 +1625,6 @@
         "jogos_analisados": 27
       },
       {
-        "t": "Santos FC",
-        "v": 37,
-        "e": 30,
-        "d": 33,
-        "gm": 1.52,
-        "gs": 1.48,
-        "p1": 49,
-        "p2": 51,
-        "o25": 63,
-        "btts": 70,
-        "jogos_analisados": 27
-      },
-      {
-        "t": "São Paulo FC",
-        "v": 37,
-        "e": 22,
-        "d": 41,
-        "gm": 1.19,
-        "gs": 1.11,
-        "p1": 41,
-        "p2": 59,
-        "o25": 37,
-        "btts": 56,
-        "jogos_analisados": 27
-      },
-      {
         "t": "Coritiba FBC",
         "v": 36,
         "e": 29,
@@ -1648,6 +1635,19 @@
         "p2": 62,
         "o25": 54,
         "btts": 54,
+        "jogos_analisados": 28
+      },
+      {
+        "t": "São Paulo FC",
+        "v": 36,
+        "e": 21,
+        "d": 43,
+        "gm": 1.18,
+        "gs": 1.14,
+        "p1": 42,
+        "p2": 58,
+        "o25": 39,
+        "btts": 57,
         "jogos_analisados": 28
       },
       {
