@@ -1573,6 +1573,19 @@
         "jogos_analisados": 28
       },
       {
+        "t": "CA Mineiro",
+        "v": 43,
+        "e": 25,
+        "d": 32,
+        "gm": 1.32,
+        "gs": 1.14,
+        "p1": 49,
+        "p2": 51,
+        "o25": 46,
+        "btts": 46,
+        "jogos_analisados": 28
+      },
+      {
         "t": "EC Bahia",
         "v": 43,
         "e": 36,
@@ -1584,19 +1597,6 @@
         "o25": 54,
         "btts": 68,
         "jogos_analisados": 28
-      },
-      {
-        "t": "CA Mineiro",
-        "v": 41,
-        "e": 26,
-        "d": 33,
-        "gm": 1.33,
-        "gs": 1.19,
-        "p1": 47,
-        "p2": 53,
-        "o25": 48,
-        "btts": 48,
-        "jogos_analisados": 27
       },
       {
         "t": "Santos FC",
@@ -1612,19 +1612,6 @@
         "jogos_analisados": 28
       },
       {
-        "t": "RB Bragantino",
-        "v": 37,
-        "e": 22,
-        "d": 41,
-        "gm": 1.22,
-        "gs": 1.15,
-        "p1": 55,
-        "p2": 45,
-        "o25": 41,
-        "btts": 52,
-        "jogos_analisados": 27
-      },
-      {
         "t": "Coritiba FBC",
         "v": 36,
         "e": 29,
@@ -1635,6 +1622,19 @@
         "p2": 62,
         "o25": 54,
         "btts": 54,
+        "jogos_analisados": 28
+      },
+      {
+        "t": "RB Bragantino",
+        "v": 36,
+        "e": 21,
+        "d": 43,
+        "gm": 1.18,
+        "gs": 1.14,
+        "p1": 55,
+        "p2": 45,
+        "o25": 39,
+        "btts": 50,
         "jogos_analisados": 28
       },
       {
