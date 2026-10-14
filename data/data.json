@@ -544,16 +544,16 @@
       },
       {
         "t": "SC Freiburg",
-        "v": 80,
-        "e": 20,
+        "v": 75,
+        "e": 25,
         "d": 0,
-        "gm": 2.8,
-        "gs": 0.8,
+        "gm": 3.0,
+        "gs": 0.75,
         "p1": 50,
         "p2": 50,
-        "o25": 80,
-        "btts": 60,
-        "jogos_analisados": 5
+        "o25": 75,
+        "btts": 50,
+        "jogos_analisados": 4
       },
       {
         "t": "FC Bayern München",
@@ -634,19 +634,6 @@
         "jogos_analisados": 5
       },
       {
-        "t": "1. FC Köln",
-        "v": 40,
-        "e": 20,
-        "d": 40,
-        "gm": 1.6,
-        "gs": 2.0,
-        "p1": 25,
-        "p2": 75,
-        "o25": 80,
-        "btts": 100,
-        "jogos_analisados": 5
-      },
-      {
         "t": "Hamburger SV",
         "v": 40,
         "e": 0,
@@ -684,6 +671,32 @@
         "o25": 100,
         "btts": 80,
         "jogos_analisados": 5
+      },
+      {
+        "t": "1. FC Köln",
+        "v": 25,
+        "e": 25,
+        "d": 50,
+        "gm": 1.5,
+        "gs": 2.25,
+        "p1": 17,
+        "p2": 83,
+        "o25": 75,
+        "btts": 100,
+        "jogos_analisados": 4
+      },
+      {
+        "t": "FC Schalke 04",
+        "v": 25,
+        "e": 50,
+        "d": 25,
+        "gm": 0.75,
+        "gs": 1.0,
+        "p1": 33,
+        "p2": 67,
+        "o25": 50,
+        "btts": 25,
+        "jogos_analisados": 4
       },
       {
         "t": "SC Paderborn 07",
@@ -738,30 +751,17 @@
         "jogos_analisados": 5
       },
       {
-        "t": "FC Schalke 04",
-        "v": 20,
-        "e": 40,
-        "d": 40,
-        "gm": 0.8,
-        "gs": 1.2,
-        "p1": 50,
-        "p2": 50,
-        "o25": 60,
-        "btts": 40,
-        "jogos_analisados": 5
-      },
-      {
         "t": "Borussia Mönchengladbach",
         "v": 0,
         "e": 0,
         "d": 100,
-        "gm": 1.4,
-        "gs": 3.6,
-        "p1": 57,
-        "p2": 43,
+        "gm": 1.5,
+        "gs": 4.0,
+        "p1": 50,
+        "p2": 50,
         "o25": 100,
-        "btts": 60,
-        "jogos_analisados": 5
+        "btts": 50,
+        "jogos_analisados": 4
       }
     ]
   },
@@ -1538,10 +1538,10 @@
         "v": 50,
         "e": 27,
         "d": 23,
-        "gm": 1.6,
+        "gm": 1.63,
         "gs": 1.17,
-        "p1": 52,
-        "p2": 48,
+        "p1": 51,
+        "p2": 49,
         "o25": 53,
         "btts": 60,
         "jogos_analisados": 30
@@ -1760,7 +1760,7 @@
         "e": 31,
         "d": 59,
         "gm": 1.03,
-        "gs": 2.07,
+        "gs": 2.1,
         "p1": 40,
         "p2": 60,
         "o25": 59,
@@ -1854,13 +1854,13 @@
         "v": 100,
         "e": 0,
         "d": 0,
-        "gm": 5.0,
+        "gm": 4.5,
         "gs": 1.0,
-        "p1": 40,
-        "p2": 60,
+        "p1": 33,
+        "p2": 67,
         "o25": 100,
         "btts": 100,
-        "jogos_analisados": 1
+        "jogos_analisados": 2
       },
       {
         "t": "VfB Stuttgart",
@@ -1906,52 +1906,26 @@
         "v": 100,
         "e": 0,
         "d": 0,
-        "gm": 1.0,
+        "gm": 2.0,
         "gs": 0.0,
         "p1": 0,
         "p2": 100,
-        "o25": 0,
+        "o25": 50,
         "btts": 0,
-        "jogos_analisados": 1
+        "jogos_analisados": 2
       },
       {
         "t": "Sporting Clube de Portugal",
         "v": 100,
         "e": 0,
         "d": 0,
-        "gm": 3.0,
-        "gs": 1.0,
-        "p1": 33,
-        "p2": 67,
-        "o25": 100,
-        "btts": 100,
-        "jogos_analisados": 1
-      },
-      {
-        "t": "FC Bayern München",
-        "v": 100,
-        "e": 0,
-        "d": 0,
-        "gm": 5.0,
-        "gs": 0.0,
-        "p1": 0,
-        "p2": 100,
-        "o25": 100,
-        "btts": 0,
-        "jogos_analisados": 1
-      },
-      {
-        "t": "Manchester United FC",
-        "v": 100,
-        "e": 0,
-        "d": 0,
-        "gm": 4.0,
-        "gs": 0.0,
-        "p1": 75,
-        "p2": 25,
-        "o25": 100,
-        "btts": 0,
-        "jogos_analisados": 1
+        "gm": 2.5,
+        "gs": 0.5,
+        "p1": 40,
+        "p2": 60,
+        "o25": 50,
+        "btts": 50,
+        "jogos_analisados": 2
       },
       {
         "t": "Como 1907",
@@ -1967,30 +1941,108 @@
         "jogos_analisados": 1
       },
       {
-        "t": "Racing Club de Lens",
-        "v": 100,
+        "t": "Club Brugge KV",
+        "v": 50,
         "e": 0,
-        "d": 0,
+        "d": 50,
         "gm": 3.0,
+        "gs": 3.0,
+        "p1": 33,
+        "p2": 67,
+        "o25": 100,
+        "btts": 100,
+        "jogos_analisados": 2
+      },
+      {
+        "t": "Villarreal CF",
+        "v": 50,
+        "e": 0,
+        "d": 50,
+        "gm": 2.5,
         "gs": 2.0,
+        "p1": 40,
+        "p2": 60,
+        "o25": 100,
+        "btts": 100,
+        "jogos_analisados": 2
+      },
+      {
+        "t": "Club Atlético de Madrid",
+        "v": 50,
+        "e": 0,
+        "d": 50,
+        "gm": 1.5,
+        "gs": 1.0,
+        "p1": 67,
+        "p2": 33,
+        "o25": 50,
+        "btts": 50,
+        "jogos_analisados": 2
+      },
+      {
+        "t": "FC Bayern München",
+        "v": 50,
+        "e": 50,
+        "d": 0,
+        "gm": 4.0,
+        "gs": 1.5,
         "p1": 0,
         "p2": 100,
         "o25": 100,
-        "btts": 100,
-        "jogos_analisados": 1
+        "btts": 50,
+        "jogos_analisados": 2
       },
       {
-        "t": "Club Brugge KV",
-        "v": 0,
+        "t": "Manchester United FC",
+        "v": 50,
         "e": 0,
-        "d": 100,
+        "d": 50,
         "gm": 2.0,
-        "gs": 3.0,
-        "p1": 50,
-        "p2": 50,
-        "o25": 100,
-        "btts": 100,
-        "jogos_analisados": 1
+        "gs": 1.0,
+        "p1": 75,
+        "p2": 25,
+        "o25": 50,
+        "btts": 0,
+        "jogos_analisados": 2
+      },
+      {
+        "t": "Sabah FK",
+        "v": 50,
+        "e": 0,
+        "d": 50,
+        "gm": 1.0,
+        "gs": 2.0,
+        "p1": 0,
+        "p2": 100,
+        "o25": 50,
+        "btts": 0,
+        "jogos_analisados": 2
+      },
+      {
+        "t": "RB Leipzig",
+        "v": 50,
+        "e": 0,
+        "d": 50,
+        "gm": 1.0,
+        "gs": 2.0,
+        "p1": 0,
+        "p2": 100,
+        "o25": 50,
+        "btts": 50,
+        "jogos_analisados": 2
+      },
+      {
+        "t": "Racing Club de Lens",
+        "v": 50,
+        "e": 0,
+        "d": 50,
+        "gm": 1.5,
+        "gs": 2.0,
+        "p1": 0,
+        "p2": 100,
+        "o25": 50,
+        "btts": 50,
+        "jogos_analisados": 2
       },
       {
         "t": "LASK Linz",
@@ -2010,13 +2062,13 @@
         "v": 0,
         "e": 0,
         "d": 100,
-        "gm": 1.0,
-        "gs": 2.0,
-        "p1": 0,
-        "p2": 100,
+        "gm": 2.0,
+        "gs": 3.0,
+        "p1": 25,
+        "p2": 75,
         "o25": 100,
         "btts": 100,
-        "jogos_analisados": 1
+        "jogos_analisados": 2
       },
       {
         "t": "FC Porto",
@@ -2032,30 +2084,17 @@
         "jogos_analisados": 1
       },
       {
-        "t": "Villarreal CF",
-        "v": 0,
-        "e": 0,
-        "d": 100,
-        "gm": 2.0,
-        "gs": 3.0,
-        "p1": 0,
-        "p2": 100,
-        "o25": 100,
-        "btts": 100,
-        "jogos_analisados": 1
-      },
-      {
         "t": "Lille OSC",
         "v": 0,
         "e": 0,
         "d": 100,
-        "gm": 2.0,
+        "gm": 1.0,
         "gs": 3.0,
         "p1": 100,
         "p2": 0,
         "o25": 100,
-        "btts": 100,
-        "jogos_analisados": 1
+        "btts": 50,
+        "jogos_analisados": 2
       },
       {
         "t": "Feyenoord Rotterdam",
@@ -2073,28 +2112,15 @@
       {
         "t": "Viking FK",
         "v": 0,
-        "e": 0,
-        "d": 100,
-        "gm": 1.0,
+        "e": 50,
+        "d": 50,
+        "gm": 2.0,
         "gs": 3.0,
-        "p1": 100,
-        "p2": 0,
+        "p1": 75,
+        "p2": 25,
         "o25": 100,
         "btts": 100,
-        "jogos_analisados": 1
-      },
-      {
-        "t": "Club Atlético de Madrid",
-        "v": 0,
-        "e": 0,
-        "d": 100,
-        "gm": 1.0,
-        "gs": 2.0,
-        "p1": 100,
-        "p2": 0,
-        "o25": 100,
-        "btts": 100,
-        "jogos_analisados": 1
+        "jogos_analisados": 2
       },
       {
         "t": "ŠK Slovan Bratislava",
@@ -2114,13 +2140,13 @@
         "v": 0,
         "e": 0,
         "d": 100,
-        "gm": 0.0,
-        "gs": 1.0,
-        "p1": 0,
+        "gm": 0.5,
+        "gs": 2.0,
+        "p1": 100,
         "p2": 0,
-        "o25": 0,
-        "btts": 0,
-        "jogos_analisados": 1
+        "o25": 50,
+        "btts": 50,
+        "jogos_analisados": 2
       },
       {
         "t": "Galatasaray SK",
@@ -2128,12 +2154,12 @@
         "e": 0,
         "d": 100,
         "gm": 1.0,
-        "gs": 3.0,
+        "gs": 3.5,
         "p1": 100,
         "p2": 0,
         "o25": 100,
         "btts": 100,
-        "jogos_analisados": 1
+        "jogos_analisados": 2
       },
       {
         "t": "Fenerbahçe SK",
@@ -2164,15 +2190,15 @@
       {
         "t": "PSV",
         "v": 0,
-        "e": 100,
-        "d": 0,
-        "gm": 1.0,
+        "e": 50,
+        "d": 50,
+        "gm": 0.5,
         "gs": 1.0,
         "p1": 0,
         "p2": 100,
         "o25": 0,
-        "btts": 100,
-        "jogos_analisados": 1
+        "btts": 50,
+        "jogos_analisados": 2
       },
       {
         "t": "FK Shakhtar Donetsk",
@@ -2201,43 +2227,17 @@
         "jogos_analisados": 1
       },
       {
-        "t": "Sabah FK",
-        "v": 0,
-        "e": 0,
-        "d": 100,
-        "gm": 0.0,
-        "gs": 4.0,
-        "p1": 0,
-        "p2": 0,
-        "o25": 100,
-        "btts": 0,
-        "jogos_analisados": 1
-      },
-      {
-        "t": "RB Leipzig",
-        "v": 0,
-        "e": 0,
-        "d": 100,
-        "gm": 1.0,
-        "gs": 4.0,
-        "p1": 0,
-        "p2": 100,
-        "o25": 100,
-        "btts": 100,
-        "jogos_analisados": 1
-      },
-      {
         "t": "SK Slavia Praha",
         "v": 0,
         "e": 0,
         "d": 100,
-        "gm": 2.0,
-        "gs": 3.0,
+        "gm": 1.0,
+        "gs": 2.5,
         "p1": 0,
         "p2": 100,
-        "o25": 100,
-        "btts": 100,
-        "jogos_analisados": 1
+        "o25": 50,
+        "btts": 50,
+        "jogos_analisados": 2
       }
     ]
   }
