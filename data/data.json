@@ -2,30 +2,30 @@
   "Premier League": {
     "1ª Divisão": [
       {
-        "t": "Manchester City FC",
-        "v": 100,
+        "t": "Arsenal FC",
+        "v": 88,
         "e": 0,
-        "d": 0,
-        "gm": 2.71,
-        "gs": 1.0,
-        "p1": 37,
-        "p2": 63,
-        "o25": 71,
-        "btts": 57,
-        "jogos_analisados": 7
+        "d": 12,
+        "gm": 1.62,
+        "gs": 0.62,
+        "p1": 31,
+        "p2": 69,
+        "o25": 50,
+        "btts": 25,
+        "jogos_analisados": 8
       },
       {
-        "t": "Arsenal FC",
-        "v": 86,
+        "t": "Manchester City FC",
+        "v": 88,
         "e": 0,
-        "d": 14,
-        "gm": 1.57,
-        "gs": 0.71,
-        "p1": 27,
-        "p2": 73,
-        "o25": 57,
-        "btts": 29,
-        "jogos_analisados": 7
+        "d": 12,
+        "gm": 2.5,
+        "gs": 1.12,
+        "p1": 35,
+        "p2": 65,
+        "o25": 75,
+        "btts": 62,
+        "jogos_analisados": 8
       },
       {
         "t": "Brighton & Hove Albion FC",
@@ -42,16 +42,16 @@
       },
       {
         "t": "Chelsea FC",
-        "v": 57,
-        "e": 14,
-        "d": 29,
-        "gm": 2.43,
-        "gs": 1.86,
+        "v": 50,
+        "e": 12,
+        "d": 38,
+        "gm": 2.12,
+        "gs": 1.88,
         "p1": 53,
         "p2": 47,
-        "o25": 86,
-        "btts": 71,
-        "jogos_analisados": 7
+        "o25": 75,
+        "btts": 62,
+        "jogos_analisados": 8
       },
       {
         "t": "Liverpool FC",
@@ -80,17 +80,17 @@
         "jogos_analisados": 8
       },
       {
-        "t": "Coventry City FC",
-        "v": 29,
-        "e": 0,
-        "d": 71,
-        "gm": 0.86,
-        "gs": 2.0,
-        "p1": 17,
-        "p2": 83,
-        "o25": 57,
-        "btts": 29,
-        "jogos_analisados": 7
+        "t": "Aston Villa FC",
+        "v": 38,
+        "e": 25,
+        "d": 38,
+        "gm": 1.12,
+        "gs": 1.5,
+        "p1": 44,
+        "p2": 56,
+        "o25": 62,
+        "btts": 50,
+        "jogos_analisados": 8
       },
       {
         "t": "Hull City AFC",
@@ -116,19 +116,6 @@
         "p2": 56,
         "o25": 29,
         "btts": 71,
-        "jogos_analisados": 7
-      },
-      {
-        "t": "Everton FC",
-        "v": 29,
-        "e": 57,
-        "d": 14,
-        "gm": 1.14,
-        "gs": 1.0,
-        "p1": 25,
-        "p2": 75,
-        "o25": 29,
-        "btts": 43,
         "jogos_analisados": 7
       },
       {
@@ -158,19 +145,6 @@
         "jogos_analisados": 7
       },
       {
-        "t": "Aston Villa FC",
-        "v": 29,
-        "e": 29,
-        "d": 43,
-        "gm": 1.0,
-        "gs": 1.57,
-        "p1": 43,
-        "p2": 57,
-        "o25": 57,
-        "btts": 43,
-        "jogos_analisados": 7
-      },
-      {
         "t": "Newcastle United FC",
         "v": 29,
         "e": 29,
@@ -182,6 +156,58 @@
         "o25": 71,
         "btts": 71,
         "jogos_analisados": 7
+      },
+      {
+        "t": "Coventry City FC",
+        "v": 25,
+        "e": 0,
+        "d": 75,
+        "gm": 0.75,
+        "gs": 1.88,
+        "p1": 17,
+        "p2": 83,
+        "o25": 50,
+        "btts": 25,
+        "jogos_analisados": 8
+      },
+      {
+        "t": "Everton FC",
+        "v": 25,
+        "e": 50,
+        "d": 25,
+        "gm": 1.0,
+        "gs": 1.12,
+        "p1": 25,
+        "p2": 75,
+        "o25": 25,
+        "btts": 38,
+        "jogos_analisados": 8
+      },
+      {
+        "t": "Tottenham Hotspur FC",
+        "v": 25,
+        "e": 38,
+        "d": 38,
+        "gm": 1.0,
+        "gs": 1.25,
+        "p1": 12,
+        "p2": 88,
+        "o25": 38,
+        "btts": 38,
+        "jogos_analisados": 8
+      },
+      {
+        "t": "Fulham FC",
+        "v": 25,
+        "e": 25,
+        "d": 50,
+        "gm": 1.0,
+        "gs": 1.25,
+        "p1": 50,
+        "p2": 50,
+        "o25": 38,
+        "btts": 50,
+        "jogos_analisados": 8
       },
       {
         "t": "Manchester United FC",
@@ -210,19 +236,6 @@
         "jogos_analisados": 7
       },
       {
-        "t": "Tottenham Hotspur FC",
-        "v": 14,
-        "e": 43,
-        "d": 43,
-        "gm": 0.86,
-        "gs": 1.43,
-        "p1": 17,
-        "p2": 83,
-        "o25": 43,
-        "btts": 43,
-        "jogos_analisados": 7
-      },
-      {
         "t": "AFC Bournemouth",
         "v": 14,
         "e": 43,
@@ -233,19 +246,6 @@
         "p2": 33,
         "o25": 57,
         "btts": 71,
-        "jogos_analisados": 7
-      },
-      {
-        "t": "Fulham FC",
-        "v": 14,
-        "e": 29,
-        "d": 57,
-        "gm": 1.0,
-        "gs": 1.43,
-        "p1": 57,
-        "p2": 43,
-        "o25": 43,
-        "btts": 57,
         "jogos_analisados": 7
       },
       {
