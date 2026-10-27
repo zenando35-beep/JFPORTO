@@ -332,16 +332,16 @@
       },
       {
         "t": "Sevilla FC",
-        "v": 44,
-        "e": 22,
-        "d": 33,
-        "gm": 1.56,
-        "gs": 1.78,
-        "p1": 21,
-        "p2": 79,
-        "o25": 67,
-        "btts": 78,
-        "jogos_analisados": 9
+        "v": 50,
+        "e": 20,
+        "d": 30,
+        "gm": 1.6,
+        "gs": 1.6,
+        "p1": 25,
+        "p2": 75,
+        "o25": 60,
+        "btts": 70,
+        "jogos_analisados": 10
       },
       {
         "t": "Athletic Club",
@@ -354,19 +354,6 @@
         "p2": 67,
         "o25": 44,
         "btts": 33,
-        "jogos_analisados": 9
-      },
-      {
-        "t": "CA Osasuna",
-        "v": 33,
-        "e": 22,
-        "d": 44,
-        "gm": 1.11,
-        "gs": 2.0,
-        "p1": 30,
-        "p2": 70,
-        "o25": 44,
-        "btts": 44,
         "jogos_analisados": 9
       },
       {
@@ -406,6 +393,19 @@
         "p2": 53,
         "o25": 70,
         "btts": 70,
+        "jogos_analisados": 10
+      },
+      {
+        "t": "CA Osasuna",
+        "v": 30,
+        "e": 20,
+        "d": 50,
+        "gm": 1.0,
+        "gs": 2.0,
+        "p1": 30,
+        "p2": 70,
+        "o25": 40,
+        "btts": 40,
         "jogos_analisados": 10
       },
       {
@@ -1045,30 +1045,17 @@
         "jogos_analisados": 8
       },
       {
-        "t": "Olympique Lyonnais",
-        "v": 57,
-        "e": 29,
-        "d": 14,
-        "gm": 1.86,
-        "gs": 0.71,
-        "p1": 46,
-        "p2": 54,
-        "o25": 57,
-        "btts": 57,
-        "jogos_analisados": 7
-      },
-      {
         "t": "Paris Saint-Germain FC",
-        "v": 57,
-        "e": 29,
-        "d": 14,
+        "v": 62,
+        "e": 25,
+        "d": 12,
         "gm": 2.0,
-        "gs": 1.29,
-        "p1": 21,
-        "p2": 79,
-        "o25": 86,
-        "btts": 86,
-        "jogos_analisados": 7
+        "gs": 1.12,
+        "p1": 19,
+        "p2": 81,
+        "o25": 75,
+        "btts": 75,
+        "jogos_analisados": 8
       },
       {
         "t": "Olympique de Marseille",
@@ -1106,6 +1093,19 @@
         "p1": 54,
         "p2": 46,
         "o25": 62,
+        "btts": 50,
+        "jogos_analisados": 8
+      },
+      {
+        "t": "Olympique Lyonnais",
+        "v": 50,
+        "e": 25,
+        "d": 25,
+        "gm": 1.62,
+        "gs": 0.88,
+        "p1": 46,
+        "p2": 54,
+        "o25": 50,
         "btts": 50,
         "jogos_analisados": 8
       },
@@ -1284,29 +1284,16 @@
       },
       {
         "t": "Sport Lisboa e Benfica",
-        "v": 75,
-        "e": 12,
-        "d": 12,
-        "gm": 3.0,
-        "gs": 0.88,
-        "p1": 33,
-        "p2": 67,
-        "o25": 88,
-        "btts": 50,
-        "jogos_analisados": 8
-      },
-      {
-        "t": "CD Santa Clara",
-        "v": 62,
-        "e": 38,
-        "d": 0,
-        "gm": 1.5,
-        "gs": 0.5,
-        "p1": 58,
-        "p2": 42,
-        "o25": 38,
-        "btts": 38,
-        "jogos_analisados": 8
+        "v": 78,
+        "e": 11,
+        "d": 11,
+        "gm": 2.89,
+        "gs": 0.89,
+        "p1": 31,
+        "p2": 69,
+        "o25": 89,
+        "btts": 56,
+        "jogos_analisados": 9
       },
       {
         "t": "FC Arouca",
@@ -1345,6 +1332,19 @@
         "p2": 46,
         "o25": 67,
         "btts": 56,
+        "jogos_analisados": 9
+      },
+      {
+        "t": "CD Santa Clara",
+        "v": 56,
+        "e": 33,
+        "d": 11,
+        "gm": 1.44,
+        "gs": 0.67,
+        "p1": 62,
+        "p2": 38,
+        "o25": 44,
+        "btts": 44,
         "jogos_analisados": 9
       },
       {
@@ -1509,16 +1509,16 @@
     "Série A": [
       {
         "t": "CR Flamengo",
-        "v": 65,
-        "e": 23,
-        "d": 13,
-        "gm": 1.97,
-        "gs": 0.81,
-        "p1": 41,
-        "p2": 59,
-        "o25": 61,
-        "btts": 48,
-        "jogos_analisados": 31
+        "v": 66,
+        "e": 22,
+        "d": 12,
+        "gm": 2.0,
+        "gs": 0.84,
+        "p1": 42,
+        "p2": 58,
+        "o25": 62,
+        "btts": 50,
+        "jogos_analisados": 32
       },
       {
         "t": "SE Palmeiras",
@@ -1561,16 +1561,16 @@
       },
       {
         "t": "CA Mineiro",
-        "v": 45,
-        "e": 26,
-        "d": 29,
-        "gm": 1.35,
-        "gs": 1.13,
+        "v": 44,
+        "e": 25,
+        "d": 31,
+        "gm": 1.38,
+        "gs": 1.19,
         "p1": 45,
         "p2": 55,
-        "o25": 48,
-        "btts": 48,
-        "jogos_analisados": 31
+        "o25": 50,
+        "btts": 50,
+        "jogos_analisados": 32
       },
       {
         "t": "Fluminense FC",
@@ -1638,19 +1638,6 @@
         "jogos_analisados": 32
       },
       {
-        "t": "Coritiba FBC",
-        "v": 32,
-        "e": 29,
-        "d": 39,
-        "gm": 1.23,
-        "gs": 1.58,
-        "p1": 39,
-        "p2": 61,
-        "o25": 52,
-        "btts": 52,
-        "jogos_analisados": 31
-      },
-      {
         "t": "CR Vasco da Gama",
         "v": 32,
         "e": 26,
@@ -1662,6 +1649,19 @@
         "o25": 58,
         "btts": 61,
         "jogos_analisados": 31
+      },
+      {
+        "t": "Coritiba FBC",
+        "v": 31,
+        "e": 28,
+        "d": 41,
+        "gm": 1.19,
+        "gs": 1.56,
+        "p1": 39,
+        "p2": 61,
+        "o25": 50,
+        "btts": 50,
+        "jogos_analisados": 32
       },
       {
         "t": "EC Vitória",
@@ -1716,6 +1716,19 @@
         "jogos_analisados": 32
       },
       {
+        "t": "Grêmio FBPA",
+        "v": 25,
+        "e": 31,
+        "d": 44,
+        "gm": 1.09,
+        "gs": 1.38,
+        "p1": 43,
+        "p2": 57,
+        "o25": 44,
+        "btts": 59,
+        "jogos_analisados": 32
+      },
+      {
         "t": "SC Corinthians Paulista",
         "v": 25,
         "e": 28,
@@ -1727,19 +1740,6 @@
         "o25": 47,
         "btts": 59,
         "jogos_analisados": 32
-      },
-      {
-        "t": "Grêmio FBPA",
-        "v": 23,
-        "e": 32,
-        "d": 45,
-        "gm": 1.1,
-        "gs": 1.42,
-        "p1": 44,
-        "p2": 56,
-        "o25": 45,
-        "btts": 61,
-        "jogos_analisados": 31
       },
       {
         "t": "Clube do Remo",
