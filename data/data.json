@@ -768,6 +768,19 @@
   "Serie A": {
     "1ª Divisão": [
       {
+        "t": "SS Lazio",
+        "v": 89,
+        "e": 11,
+        "d": 0,
+        "gm": 2.44,
+        "gs": 0.78,
+        "p1": 45,
+        "p2": 55,
+        "o25": 67,
+        "btts": 56,
+        "jogos_analisados": 9
+      },
+      {
         "t": "FC Internazionale Milano",
         "v": 88,
         "e": 12,
@@ -781,30 +794,30 @@
         "jogos_analisados": 8
       },
       {
-        "t": "SS Lazio",
-        "v": 88,
-        "e": 12,
-        "d": 0,
-        "gm": 2.0,
-        "gs": 0.62,
-        "p1": 38,
-        "p2": 62,
-        "o25": 62,
-        "btts": 50,
-        "jogos_analisados": 8
+        "t": "Como 1907",
+        "v": 67,
+        "e": 22,
+        "d": 11,
+        "gm": 1.89,
+        "gs": 0.89,
+        "p1": 47,
+        "p2": 53,
+        "o25": 56,
+        "btts": 67,
+        "jogos_analisados": 9
       },
       {
-        "t": "Como 1907",
-        "v": 62,
-        "e": 25,
-        "d": 12,
-        "gm": 1.75,
-        "gs": 0.88,
-        "p1": 57,
-        "p2": 43,
-        "o25": 50,
-        "btts": 62,
-        "jogos_analisados": 8
+        "t": "AS Roma",
+        "v": 67,
+        "e": 33,
+        "d": 0,
+        "gm": 2.56,
+        "gs": 0.89,
+        "p1": 39,
+        "p2": 61,
+        "o25": 67,
+        "btts": 44,
+        "jogos_analisados": 9
       },
       {
         "t": "AC Milan",
@@ -817,32 +830,6 @@
         "p2": 75,
         "o25": 50,
         "btts": 62,
-        "jogos_analisados": 8
-      },
-      {
-        "t": "AS Roma",
-        "v": 62,
-        "e": 38,
-        "d": 0,
-        "gm": 2.38,
-        "gs": 0.75,
-        "p1": 37,
-        "p2": 63,
-        "o25": 62,
-        "btts": 38,
-        "jogos_analisados": 8
-      },
-      {
-        "t": "Cagliari Calcio",
-        "v": 50,
-        "e": 12,
-        "d": 38,
-        "gm": 0.75,
-        "gs": 1.12,
-        "p1": 50,
-        "p2": 50,
-        "o25": 25,
-        "btts": 25,
         "jogos_analisados": 8
       },
       {
@@ -872,17 +859,30 @@
         "jogos_analisados": 8
       },
       {
+        "t": "Cagliari Calcio",
+        "v": 44,
+        "e": 11,
+        "d": 44,
+        "gm": 0.89,
+        "gs": 1.44,
+        "p1": 50,
+        "p2": 50,
+        "o25": 33,
+        "btts": 33,
+        "jogos_analisados": 9
+      },
+      {
         "t": "Torino FC",
-        "v": 50,
-        "e": 12,
-        "d": 38,
-        "gm": 1.62,
-        "gs": 1.38,
-        "p1": 38,
-        "p2": 62,
-        "o25": 75,
-        "btts": 75,
-        "jogos_analisados": 8
+        "v": 44,
+        "e": 11,
+        "d": 44,
+        "gm": 1.56,
+        "gs": 1.56,
+        "p1": 43,
+        "p2": 57,
+        "o25": 78,
+        "btts": 78,
+        "jogos_analisados": 9
       },
       {
         "t": "SSC Napoli",
@@ -950,19 +950,6 @@
         "jogos_analisados": 8
       },
       {
-        "t": "US Sassuolo Calcio",
-        "v": 25,
-        "e": 25,
-        "d": 50,
-        "gm": 1.5,
-        "gs": 2.0,
-        "p1": 33,
-        "p2": 67,
-        "o25": 75,
-        "btts": 88,
-        "jogos_analisados": 8
-      },
-      {
         "t": "Bologna FC 1909",
         "v": 25,
         "e": 25,
@@ -974,6 +961,19 @@
         "o25": 38,
         "btts": 50,
         "jogos_analisados": 8
+      },
+      {
+        "t": "US Sassuolo Calcio",
+        "v": 22,
+        "e": 22,
+        "d": 56,
+        "gm": 1.56,
+        "gs": 2.44,
+        "p1": 43,
+        "p2": 57,
+        "o25": 78,
+        "btts": 89,
+        "jogos_analisados": 9
       },
       {
         "t": "Udinese Calcio",
