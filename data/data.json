@@ -820,6 +820,19 @@
         "jogos_analisados": 9
       },
       {
+        "t": "Frosinone Calcio",
+        "v": 56,
+        "e": 22,
+        "d": 22,
+        "gm": 2.44,
+        "gs": 1.56,
+        "p1": 64,
+        "p2": 36,
+        "o25": 67,
+        "btts": 56,
+        "jogos_analisados": 9
+      },
+      {
         "t": "AC Milan",
         "v": 56,
         "e": 33,
@@ -831,19 +844,6 @@
         "o25": 56,
         "btts": 67,
         "jogos_analisados": 9
-      },
-      {
-        "t": "Frosinone Calcio",
-        "v": 50,
-        "e": 25,
-        "d": 25,
-        "gm": 2.12,
-        "gs": 1.62,
-        "p1": 71,
-        "p2": 29,
-        "o25": 62,
-        "btts": 50,
-        "jogos_analisados": 8
       },
       {
         "t": "SSC Napoli",
@@ -898,32 +898,6 @@
         "jogos_analisados": 9
       },
       {
-        "t": "US Lecce",
-        "v": 38,
-        "e": 0,
-        "d": 62,
-        "gm": 1.12,
-        "gs": 1.75,
-        "p1": 56,
-        "p2": 44,
-        "o25": 62,
-        "btts": 25,
-        "jogos_analisados": 8
-      },
-      {
-        "t": "Atalanta BC",
-        "v": 38,
-        "e": 12,
-        "d": 50,
-        "gm": 1.75,
-        "gs": 1.88,
-        "p1": 57,
-        "p2": 43,
-        "o25": 75,
-        "btts": 75,
-        "jogos_analisados": 8
-      },
-      {
         "t": "Genoa CFC",
         "v": 33,
         "e": 11,
@@ -934,6 +908,32 @@
         "p2": 25,
         "o25": 33,
         "btts": 44,
+        "jogos_analisados": 9
+      },
+      {
+        "t": "US Lecce",
+        "v": 33,
+        "e": 0,
+        "d": 67,
+        "gm": 1.11,
+        "gs": 2.11,
+        "p1": 50,
+        "p2": 50,
+        "o25": 67,
+        "btts": 33,
+        "jogos_analisados": 9
+      },
+      {
+        "t": "Atalanta BC",
+        "v": 33,
+        "e": 22,
+        "d": 44,
+        "gm": 1.78,
+        "gs": 1.89,
+        "p1": 56,
+        "p2": 44,
+        "o25": 78,
+        "btts": 78,
         "jogos_analisados": 9
       },
       {
@@ -976,19 +976,6 @@
         "jogos_analisados": 9
       },
       {
-        "t": "ACF Fiorentina",
-        "v": 12,
-        "e": 12,
-        "d": 75,
-        "gm": 1.12,
-        "gs": 2.38,
-        "p1": 33,
-        "p2": 67,
-        "o25": 88,
-        "btts": 75,
-        "jogos_analisados": 8
-      },
-      {
         "t": "Udinese Calcio",
         "v": 11,
         "e": 22,
@@ -1025,6 +1012,19 @@
         "p2": 67,
         "o25": 33,
         "btts": 33,
+        "jogos_analisados": 9
+      },
+      {
+        "t": "ACF Fiorentina",
+        "v": 11,
+        "e": 22,
+        "d": 67,
+        "gm": 1.22,
+        "gs": 2.33,
+        "p1": 27,
+        "p2": 73,
+        "o25": 89,
+        "btts": 78,
         "jogos_analisados": 9
       }
     ]
@@ -1509,16 +1509,16 @@
     "Série A": [
       {
         "t": "CR Flamengo",
-        "v": 66,
-        "e": 22,
+        "v": 67,
+        "e": 21,
         "d": 12,
-        "gm": 2.0,
-        "gs": 0.84,
-        "p1": 42,
-        "p2": 58,
-        "o25": 62,
-        "btts": 50,
-        "jogos_analisados": 32
+        "gm": 2.06,
+        "gs": 0.85,
+        "p1": 43,
+        "p2": 57,
+        "o25": 64,
+        "btts": 52,
+        "jogos_analisados": 33
       },
       {
         "t": "SE Palmeiras",
@@ -1535,29 +1535,29 @@
       },
       {
         "t": "Cruzeiro EC",
-        "v": 50,
-        "e": 19,
-        "d": 31,
-        "gm": 1.59,
-        "gs": 1.44,
-        "p1": 39,
-        "p2": 61,
-        "o25": 66,
-        "btts": 69,
-        "jogos_analisados": 32
+        "v": 52,
+        "e": 18,
+        "d": 30,
+        "gm": 1.58,
+        "gs": 1.39,
+        "p1": 40,
+        "p2": 60,
+        "o25": 64,
+        "btts": 67,
+        "jogos_analisados": 33
       },
       {
         "t": "CA Paranaense",
-        "v": 47,
-        "e": 28,
-        "d": 25,
-        "gm": 1.56,
-        "gs": 1.19,
+        "v": 45,
+        "e": 27,
+        "d": 27,
+        "gm": 1.52,
+        "gs": 1.21,
         "p1": 52,
         "p2": 48,
-        "o25": 50,
-        "btts": 59,
-        "jogos_analisados": 32
+        "o25": 48,
+        "btts": 58,
+        "jogos_analisados": 33
       },
       {
         "t": "Fluminense FC",
@@ -1574,16 +1574,16 @@
       },
       {
         "t": "CA Mineiro",
-        "v": 44,
-        "e": 25,
-        "d": 31,
-        "gm": 1.38,
-        "gs": 1.19,
+        "v": 42,
+        "e": 24,
+        "d": 33,
+        "gm": 1.33,
+        "gs": 1.18,
         "p1": 45,
         "p2": 55,
-        "o25": 50,
-        "btts": 50,
-        "jogos_analisados": 32
+        "o25": 48,
+        "btts": 48,
+        "jogos_analisados": 33
       },
       {
         "t": "EC Bahia",
@@ -1638,19 +1638,6 @@
         "jogos_analisados": 33
       },
       {
-        "t": "CR Vasco da Gama",
-        "v": 32,
-        "e": 26,
-        "d": 42,
-        "gm": 1.26,
-        "gs": 1.45,
-        "p1": 28,
-        "p2": 72,
-        "o25": 58,
-        "btts": 61,
-        "jogos_analisados": 31
-      },
-      {
         "t": "Coritiba FBC",
         "v": 31,
         "e": 28,
@@ -1674,6 +1661,19 @@
         "p2": 54,
         "o25": 41,
         "btts": 44,
+        "jogos_analisados": 32
+      },
+      {
+        "t": "CR Vasco da Gama",
+        "v": 31,
+        "e": 25,
+        "d": 44,
+        "gm": 1.25,
+        "gs": 1.53,
+        "p1": 30,
+        "p2": 70,
+        "o25": 59,
+        "btts": 62,
         "jogos_analisados": 32
       },
       {
@@ -1704,16 +1704,16 @@
       },
       {
         "t": "Grêmio FBPA",
-        "v": 25,
-        "e": 31,
-        "d": 44,
-        "gm": 1.09,
-        "gs": 1.38,
+        "v": 27,
+        "e": 30,
+        "d": 42,
+        "gm": 1.12,
+        "gs": 1.33,
         "p1": 43,
         "p2": 57,
-        "o25": 44,
-        "btts": 59,
-        "jogos_analisados": 32
+        "o25": 42,
+        "btts": 58,
+        "jogos_analisados": 33
       },
       {
         "t": "SC Corinthians Paulista",
