@@ -1522,29 +1522,29 @@
       },
       {
         "t": "SE Palmeiras",
-        "v": 61,
-        "e": 30,
+        "v": 62,
+        "e": 29,
         "d": 9,
-        "gm": 1.7,
-        "gs": 0.67,
-        "p1": 54,
-        "p2": 46,
-        "o25": 45,
-        "btts": 52,
-        "jogos_analisados": 33
+        "gm": 1.82,
+        "gs": 0.68,
+        "p1": 55,
+        "p2": 45,
+        "o25": 47,
+        "btts": 53,
+        "jogos_analisados": 34
       },
       {
         "t": "Cruzeiro EC",
-        "v": 52,
+        "v": 53,
         "e": 18,
-        "d": 30,
-        "gm": 1.58,
-        "gs": 1.39,
+        "d": 29,
+        "gm": 1.62,
+        "gs": 1.41,
         "p1": 40,
         "p2": 60,
-        "o25": 64,
-        "btts": 67,
-        "jogos_analisados": 33
+        "o25": 65,
+        "btts": 68,
+        "jogos_analisados": 34
       },
       {
         "t": "Fluminense FC",
@@ -1573,19 +1573,6 @@
         "jogos_analisados": 34
       },
       {
-        "t": "EC Bahia",
-        "v": 42,
-        "e": 33,
-        "d": 24,
-        "gm": 1.45,
-        "gs": 1.27,
-        "p1": 58,
-        "p2": 42,
-        "o25": 52,
-        "btts": 64,
-        "jogos_analisados": 33
-      },
-      {
         "t": "CA Mineiro",
         "v": 41,
         "e": 24,
@@ -1596,6 +1583,19 @@
         "p2": 55,
         "o25": 47,
         "btts": 47,
+        "jogos_analisados": 34
+      },
+      {
+        "t": "EC Bahia",
+        "v": 41,
+        "e": 32,
+        "d": 26,
+        "gm": 1.47,
+        "gs": 1.32,
+        "p1": 58,
+        "p2": 42,
+        "o25": 53,
+        "btts": 65,
         "jogos_analisados": 34
       },
       {
@@ -1744,15 +1744,15 @@
       {
         "t": "Clube do Remo",
         "v": 18,
-        "e": 33,
-        "d": 48,
+        "e": 32,
+        "d": 50,
         "gm": 1.09,
-        "gs": 1.55,
-        "p1": 42,
-        "p2": 58,
-        "o25": 48,
-        "btts": 61,
-        "jogos_analisados": 33
+        "gs": 1.68,
+        "p1": 43,
+        "p2": 57,
+        "o25": 50,
+        "btts": 62,
+        "jogos_analisados": 34
       },
       {
         "t": "Chapecoense AF",
