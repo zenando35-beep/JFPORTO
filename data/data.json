@@ -1600,16 +1600,16 @@
       },
       {
         "t": "RB Bragantino",
-        "v": 38,
-        "e": 24,
-        "d": 38,
+        "v": 37,
+        "e": 23,
+        "d": 40,
         "gm": 1.29,
-        "gs": 1.15,
-        "p1": 57,
-        "p2": 43,
-        "o25": 41,
-        "btts": 53,
-        "jogos_analisados": 34
+        "gs": 1.17,
+        "p1": 56,
+        "p2": 44,
+        "o25": 43,
+        "btts": 54,
+        "jogos_analisados": 35
       },
       {
         "t": "Santos FC",
@@ -1622,6 +1622,19 @@
         "p2": 57,
         "o25": 63,
         "btts": 71,
+        "jogos_analisados": 35
+      },
+      {
+        "t": "CR Vasco da Gama",
+        "v": 37,
+        "e": 23,
+        "d": 40,
+        "gm": 1.34,
+        "gs": 1.46,
+        "p1": 30,
+        "p2": 70,
+        "o25": 60,
+        "btts": 63,
         "jogos_analisados": 35
       },
       {
@@ -1638,19 +1651,6 @@
         "jogos_analisados": 34
       },
       {
-        "t": "CR Vasco da Gama",
-        "v": 35,
-        "e": 24,
-        "d": 41,
-        "gm": 1.32,
-        "gs": 1.47,
-        "p1": 29,
-        "p2": 71,
-        "o25": 59,
-        "btts": 62,
-        "jogos_analisados": 34
-      },
-      {
         "t": "Coritiba FBC",
         "v": 31,
         "e": 26,
@@ -1661,6 +1661,19 @@
         "p2": 62,
         "o25": 46,
         "btts": 46,
+        "jogos_analisados": 35
+      },
+      {
+        "t": "EC Vitória",
+        "v": 31,
+        "e": 23,
+        "d": 46,
+        "gm": 1.06,
+        "gs": 1.49,
+        "p1": 49,
+        "p2": 51,
+        "o25": 43,
+        "btts": 43,
         "jogos_analisados": 35
       },
       {
@@ -1675,19 +1688,6 @@
         "o25": 63,
         "btts": 63,
         "jogos_analisados": 35
-      },
-      {
-        "t": "EC Vitória",
-        "v": 29,
-        "e": 24,
-        "d": 47,
-        "gm": 1.03,
-        "gs": 1.5,
-        "p1": 46,
-        "p2": 54,
-        "o25": 41,
-        "btts": 41,
-        "jogos_analisados": 34
       },
       {
         "t": "SC Corinthians Paulista",
@@ -1718,15 +1718,15 @@
       {
         "t": "SC Internacional",
         "v": 26,
-        "e": 32,
-        "d": 41,
-        "gm": 1.12,
-        "gs": 1.24,
-        "p1": 42,
-        "p2": 58,
-        "o25": 41,
-        "btts": 56,
-        "jogos_analisados": 34
+        "e": 31,
+        "d": 43,
+        "gm": 1.11,
+        "gs": 1.26,
+        "p1": 41,
+        "p2": 59,
+        "o25": 43,
+        "btts": 57,
+        "jogos_analisados": 35
       },
       {
         "t": "Grêmio FBPA",
