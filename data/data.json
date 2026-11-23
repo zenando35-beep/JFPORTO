@@ -15,19 +15,6 @@
         "jogos_analisados": 11
       },
       {
-        "t": "Brighton & Hove Albion FC",
-        "v": 70,
-        "e": 10,
-        "d": 20,
-        "gm": 2.6,
-        "gs": 0.7,
-        "p1": 54,
-        "p2": 46,
-        "o25": 50,
-        "btts": 20,
-        "jogos_analisados": 10
-      },
-      {
         "t": "Manchester City FC",
         "v": 64,
         "e": 9,
@@ -41,17 +28,30 @@
         "jogos_analisados": 11
       },
       {
+        "t": "Brighton & Hove Albion FC",
+        "v": 64,
+        "e": 9,
+        "d": 27,
+        "gm": 2.36,
+        "gs": 0.82,
+        "p1": 54,
+        "p2": 46,
+        "o25": 45,
+        "btts": 18,
+        "jogos_analisados": 11
+      },
+      {
         "t": "Liverpool FC",
-        "v": 50,
-        "e": 30,
-        "d": 20,
-        "gm": 1.4,
-        "gs": 1.0,
-        "p1": 36,
-        "p2": 64,
-        "o25": 50,
-        "btts": 40,
-        "jogos_analisados": 10
+        "v": 55,
+        "e": 27,
+        "d": 18,
+        "gm": 1.64,
+        "gs": 0.91,
+        "p1": 39,
+        "p2": 61,
+        "o25": 55,
+        "btts": 36,
+        "jogos_analisados": 11
       },
       {
         "t": "AFC Bournemouth",
@@ -145,6 +145,19 @@
         "jogos_analisados": 10
       },
       {
+        "t": "Hull City AFC",
+        "v": 27,
+        "e": 45,
+        "d": 27,
+        "gm": 1.18,
+        "gs": 1.0,
+        "p1": 38,
+        "p2": 62,
+        "o25": 36,
+        "btts": 45,
+        "jogos_analisados": 11
+      },
+      {
         "t": "Ipswich Town FC",
         "v": 27,
         "e": 18,
@@ -182,19 +195,6 @@
         "o25": 55,
         "btts": 64,
         "jogos_analisados": 11
-      },
-      {
-        "t": "Hull City AFC",
-        "v": 20,
-        "e": 50,
-        "d": 30,
-        "gm": 1.1,
-        "gs": 1.1,
-        "p1": 45,
-        "p2": 55,
-        "o25": 40,
-        "btts": 50,
-        "jogos_analisados": 10
       },
       {
         "t": "Sunderland AFC",
@@ -250,16 +250,16 @@
       },
       {
         "t": "Manchester United FC",
-        "v": 10,
-        "e": 50,
-        "d": 40,
-        "gm": 1.4,
-        "gs": 1.9,
+        "v": 9,
+        "e": 45,
+        "d": 45,
+        "gm": 1.27,
+        "gs": 2.09,
         "p1": 29,
         "p2": 71,
-        "o25": 40,
-        "btts": 60,
-        "jogos_analisados": 10
+        "o25": 45,
+        "btts": 55,
+        "jogos_analisados": 11
       }
     ]
   },
@@ -270,13 +270,13 @@
         "v": 92,
         "e": 0,
         "d": 8,
-        "gm": 4.0,
-        "gs": 1.08,
-        "p1": 48,
-        "p2": 52,
+        "gm": 3.92,
+        "gs": 1.15,
+        "p1": 45,
+        "p2": 55,
         "o25": 92,
-        "btts": 67,
-        "jogos_analisados": 12
+        "btts": 69,
+        "jogos_analisados": 13
       },
       {
         "t": "Real Madrid CF",
@@ -293,16 +293,16 @@
       },
       {
         "t": "Club Atlético de Madrid",
-        "v": 75,
+        "v": 77,
         "e": 8,
-        "d": 17,
-        "gm": 1.92,
-        "gs": 0.83,
-        "p1": 30,
-        "p2": 70,
-        "o25": 67,
-        "btts": 42,
-        "jogos_analisados": 12
+        "d": 15,
+        "gm": 2.0,
+        "gs": 0.77,
+        "p1": 35,
+        "p2": 65,
+        "o25": 69,
+        "btts": 38,
+        "jogos_analisados": 13
       },
       {
         "t": "Real Betis Balompié",
@@ -319,16 +319,16 @@
       },
       {
         "t": "Real Sociedad de Fútbol",
-        "v": 58,
+        "v": 54,
         "e": 8,
-        "d": 33,
-        "gm": 1.75,
-        "gs": 1.67,
+        "d": 38,
+        "gm": 1.77,
+        "gs": 1.77,
         "p1": 57,
         "p2": 43,
-        "o25": 75,
-        "btts": 67,
-        "jogos_analisados": 12
+        "o25": 77,
+        "btts": 69,
+        "jogos_analisados": 13
       },
       {
         "t": "Sevilla FC",
@@ -345,29 +345,16 @@
       },
       {
         "t": "Real Racing Club de Santander",
-        "v": 33,
-        "e": 17,
-        "d": 50,
-        "gm": 1.42,
-        "gs": 2.5,
-        "p1": 59,
-        "p2": 41,
-        "o25": 83,
-        "btts": 67,
-        "jogos_analisados": 12
-      },
-      {
-        "t": "Villarreal CF",
-        "v": 33,
-        "e": 25,
-        "d": 42,
-        "gm": 1.42,
-        "gs": 1.25,
-        "p1": 41,
-        "p2": 59,
-        "o25": 58,
-        "btts": 58,
-        "jogos_analisados": 12
+        "v": 38,
+        "e": 15,
+        "d": 46,
+        "gm": 1.54,
+        "gs": 2.46,
+        "p1": 60,
+        "p2": 40,
+        "o25": 85,
+        "btts": 69,
+        "jogos_analisados": 13
       },
       {
         "t": "Athletic Club",
@@ -396,6 +383,19 @@
         "jogos_analisados": 13
       },
       {
+        "t": "Villarreal CF",
+        "v": 31,
+        "e": 23,
+        "d": 46,
+        "gm": 1.46,
+        "gs": 1.38,
+        "p1": 47,
+        "p2": 53,
+        "o25": 62,
+        "btts": 62,
+        "jogos_analisados": 13
+      },
+      {
         "t": "RCD Espanyol de Barcelona",
         "v": 31,
         "e": 23,
@@ -409,17 +409,17 @@
         "jogos_analisados": 13
       },
       {
-        "t": "Getafe CF",
-        "v": 25,
-        "e": 25,
-        "d": 50,
-        "gm": 0.67,
-        "gs": 1.5,
-        "p1": 12,
-        "p2": 88,
-        "o25": 33,
-        "btts": 33,
-        "jogos_analisados": 12
+        "t": "CA Osasuna",
+        "v": 31,
+        "e": 23,
+        "d": 46,
+        "gm": 1.0,
+        "gs": 1.77,
+        "p1": 38,
+        "p2": 62,
+        "o25": 38,
+        "btts": 46,
+        "jogos_analisados": 13
       },
       {
         "t": "Rayo Vallecano de Madrid",
@@ -435,17 +435,17 @@
         "jogos_analisados": 12
       },
       {
-        "t": "CA Osasuna",
-        "v": 25,
-        "e": 25,
-        "d": 50,
-        "gm": 1.0,
-        "gs": 1.92,
-        "p1": 33,
-        "p2": 67,
-        "o25": 42,
-        "btts": 50,
-        "jogos_analisados": 12
+        "t": "Getafe CF",
+        "v": 23,
+        "e": 23,
+        "d": 54,
+        "gm": 0.62,
+        "gs": 1.62,
+        "p1": 12,
+        "p2": 88,
+        "o25": 38,
+        "btts": 31,
+        "jogos_analisados": 13
       },
       {
         "t": "RC Deportivo La Coruña",
@@ -515,15 +515,15 @@
       {
         "t": "Málaga CF",
         "v": 0,
-        "e": 42,
-        "d": 58,
-        "gm": 0.75,
-        "gs": 1.92,
+        "e": 38,
+        "d": 62,
+        "gm": 0.69,
+        "gs": 1.85,
         "p1": 44,
         "p2": 56,
-        "o25": 42,
-        "btts": 67,
-        "jogos_analisados": 12
+        "o25": 38,
+        "btts": 62,
+        "jogos_analisados": 13
       }
     ]
   },
@@ -595,30 +595,17 @@
         "jogos_analisados": 10
       },
       {
-        "t": "Hamburger SV",
-        "v": 44,
-        "e": 0,
-        "d": 56,
-        "gm": 1.11,
-        "gs": 2.22,
-        "p1": 40,
-        "p2": 60,
-        "o25": 67,
-        "btts": 44,
-        "jogos_analisados": 9
-      },
-      {
         "t": "SV Werder Bremen",
-        "v": 44,
-        "e": 33,
-        "d": 22,
-        "gm": 1.89,
-        "gs": 1.67,
-        "p1": 18,
-        "p2": 82,
-        "o25": 67,
-        "btts": 78,
-        "jogos_analisados": 9
+        "v": 50,
+        "e": 30,
+        "d": 20,
+        "gm": 2.1,
+        "gs": 1.5,
+        "p1": 14,
+        "p2": 86,
+        "o25": 70,
+        "btts": 70,
+        "jogos_analisados": 10
       },
       {
         "t": "VfB Stuttgart",
@@ -673,30 +660,43 @@
         "jogos_analisados": 10
       },
       {
+        "t": "Hamburger SV",
+        "v": 40,
+        "e": 0,
+        "d": 60,
+        "gm": 1.0,
+        "gs": 2.4,
+        "p1": 40,
+        "p2": 60,
+        "o25": 70,
+        "btts": 40,
+        "jogos_analisados": 10
+      },
+      {
         "t": "1. FSV Mainz 05",
-        "v": 33,
-        "e": 11,
-        "d": 56,
-        "gm": 2.0,
-        "gs": 2.11,
-        "p1": 44,
-        "p2": 56,
-        "o25": 78,
-        "btts": 67,
-        "jogos_analisados": 9
+        "v": 30,
+        "e": 10,
+        "d": 60,
+        "gm": 1.9,
+        "gs": 2.2,
+        "p1": 42,
+        "p2": 58,
+        "o25": 80,
+        "btts": 70,
+        "jogos_analisados": 10
       },
       {
         "t": "FC Augsburg",
-        "v": 22,
-        "e": 33,
-        "d": 44,
-        "gm": 2.22,
-        "gs": 2.22,
-        "p1": 30,
-        "p2": 70,
-        "o25": 89,
-        "btts": 89,
-        "jogos_analisados": 9
+        "v": 30,
+        "e": 30,
+        "d": 40,
+        "gm": 2.3,
+        "gs": 2.1,
+        "p1": 35,
+        "p2": 65,
+        "o25": 90,
+        "btts": 90,
+        "jogos_analisados": 10
       },
       {
         "t": "SC Paderborn 07",
@@ -782,16 +782,16 @@
       },
       {
         "t": "FC Internazionale Milano",
-        "v": 82,
-        "e": 9,
-        "d": 9,
-        "gm": 2.55,
-        "gs": 1.18,
-        "p1": 39,
-        "p2": 61,
-        "o25": 73,
-        "btts": 64,
-        "jogos_analisados": 11
+        "v": 75,
+        "e": 17,
+        "d": 8,
+        "gm": 2.67,
+        "gs": 1.42,
+        "p1": 41,
+        "p2": 59,
+        "o25": 75,
+        "btts": 67,
+        "jogos_analisados": 12
       },
       {
         "t": "AS Roma",
@@ -821,29 +821,29 @@
       },
       {
         "t": "AC Milan",
-        "v": 64,
-        "e": 27,
-        "d": 9,
-        "gm": 2.09,
-        "gs": 1.18,
-        "p1": 48,
-        "p2": 52,
-        "o25": 64,
-        "btts": 73,
-        "jogos_analisados": 11
+        "v": 67,
+        "e": 25,
+        "d": 8,
+        "gm": 2.33,
+        "gs": 1.17,
+        "p1": 46,
+        "p2": 54,
+        "o25": 67,
+        "btts": 75,
+        "jogos_analisados": 12
       },
       {
         "t": "Frosinone Calcio",
-        "v": 55,
-        "e": 18,
-        "d": 27,
-        "gm": 2.18,
-        "gs": 1.36,
-        "p1": 58,
-        "p2": 42,
-        "o25": 55,
-        "btts": 45,
-        "jogos_analisados": 11
+        "v": 50,
+        "e": 17,
+        "d": 33,
+        "gm": 2.08,
+        "gs": 1.67,
+        "p1": 60,
+        "p2": 40,
+        "o25": 58,
+        "btts": 50,
+        "jogos_analisados": 12
       },
       {
         "t": "Juventus FC",
@@ -859,17 +859,17 @@
         "jogos_analisados": 12
       },
       {
-        "t": "Bologna FC 1909",
-        "v": 45,
-        "e": 18,
-        "d": 36,
-        "gm": 1.45,
-        "gs": 1.27,
-        "p1": 31,
-        "p2": 69,
-        "o25": 55,
-        "btts": 64,
-        "jogos_analisados": 11
+        "t": "Genoa CFC",
+        "v": 42,
+        "e": 8,
+        "d": 50,
+        "gm": 1.08,
+        "gs": 1.33,
+        "p1": 77,
+        "p2": 23,
+        "o25": 42,
+        "btts": 50,
+        "jogos_analisados": 12
       },
       {
         "t": "SSC Napoli",
@@ -898,30 +898,30 @@
         "jogos_analisados": 12
       },
       {
-        "t": "Genoa CFC",
-        "v": 36,
-        "e": 9,
-        "d": 55,
-        "gm": 1.0,
-        "gs": 1.45,
-        "p1": 73,
-        "p2": 27,
-        "o25": 45,
-        "btts": 55,
-        "jogos_analisados": 11
+        "t": "Bologna FC 1909",
+        "v": 42,
+        "e": 25,
+        "d": 33,
+        "gm": 1.42,
+        "gs": 1.25,
+        "p1": 35,
+        "p2": 65,
+        "o25": 50,
+        "btts": 67,
+        "jogos_analisados": 12
       },
       {
         "t": "Atalanta BC",
-        "v": 36,
-        "e": 18,
-        "d": 45,
-        "gm": 1.55,
-        "gs": 1.82,
-        "p1": 53,
-        "p2": 47,
-        "o25": 73,
-        "btts": 64,
-        "jogos_analisados": 11
+        "v": 33,
+        "e": 25,
+        "d": 42,
+        "gm": 1.75,
+        "gs": 2.0,
+        "p1": 48,
+        "p2": 52,
+        "o25": 75,
+        "btts": 67,
+        "jogos_analisados": 12
       },
       {
         "t": "Torino FC",
@@ -958,19 +958,6 @@
         "gs": 2.27,
         "p1": 41,
         "p2": 59,
-        "o25": 82,
-        "btts": 82,
-        "jogos_analisados": 11
-      },
-      {
-        "t": "US Sassuolo Calcio",
-        "v": 18,
-        "e": 18,
-        "d": 64,
-        "gm": 1.45,
-        "gs": 2.64,
-        "p1": 44,
-        "p2": 56,
         "o25": 82,
         "btts": 82,
         "jogos_analisados": 11
@@ -1015,17 +1002,30 @@
         "jogos_analisados": 12
       },
       {
+        "t": "US Sassuolo Calcio",
+        "v": 17,
+        "e": 17,
+        "d": 67,
+        "gm": 1.33,
+        "gs": 2.58,
+        "p1": 44,
+        "p2": 56,
+        "o25": 75,
+        "btts": 75,
+        "jogos_analisados": 12
+      },
+      {
         "t": "Udinese Calcio",
-        "v": 9,
-        "e": 18,
-        "d": 73,
-        "gm": 1.09,
-        "gs": 2.27,
-        "p1": 58,
-        "p2": 42,
-        "o25": 64,
-        "btts": 64,
-        "jogos_analisados": 11
+        "v": 8,
+        "e": 25,
+        "d": 67,
+        "gm": 1.08,
+        "gs": 2.17,
+        "p1": 54,
+        "p2": 46,
+        "o25": 58,
+        "btts": 67,
+        "jogos_analisados": 12
       }
     ]
   },
@@ -1045,30 +1045,30 @@
         "jogos_analisados": 11
       },
       {
-        "t": "Olympique de Marseille",
-        "v": 60,
-        "e": 0,
-        "d": 40,
-        "gm": 2.2,
-        "gs": 1.4,
-        "p1": 36,
-        "p2": 64,
-        "o25": 60,
-        "btts": 50,
-        "jogos_analisados": 10
+        "t": "Paris FC",
+        "v": 64,
+        "e": 18,
+        "d": 18,
+        "gm": 1.91,
+        "gs": 0.91,
+        "p1": 43,
+        "p2": 57,
+        "o25": 64,
+        "btts": 45,
+        "jogos_analisados": 11
       },
       {
-        "t": "Paris FC",
-        "v": 60,
-        "e": 20,
-        "d": 20,
-        "gm": 1.7,
-        "gs": 1.0,
-        "p1": 53,
-        "p2": 47,
-        "o25": 60,
-        "btts": 50,
-        "jogos_analisados": 10
+        "t": "Olympique de Marseille",
+        "v": 55,
+        "e": 0,
+        "d": 45,
+        "gm": 2.18,
+        "gs": 1.55,
+        "p1": 42,
+        "p2": 58,
+        "o25": 64,
+        "btts": 55,
+        "jogos_analisados": 11
       },
       {
         "t": "Olympique Lyonnais",
@@ -1097,19 +1097,6 @@
         "jogos_analisados": 11
       },
       {
-        "t": "Stade Rennais FC 1901",
-        "v": 50,
-        "e": 10,
-        "d": 40,
-        "gm": 2.1,
-        "gs": 2.1,
-        "p1": 57,
-        "p2": 43,
-        "o25": 90,
-        "btts": 70,
-        "jogos_analisados": 10
-      },
-      {
         "t": "Stade Brestois 29",
         "v": 45,
         "e": 27,
@@ -1136,17 +1123,17 @@
         "jogos_analisados": 11
       },
       {
-        "t": "FC Lorient",
-        "v": 40,
-        "e": 30,
-        "d": 30,
-        "gm": 0.9,
-        "gs": 0.8,
-        "p1": 33,
-        "p2": 67,
-        "o25": 30,
-        "btts": 30,
-        "jogos_analisados": 10
+        "t": "Stade Rennais FC 1901",
+        "v": 45,
+        "e": 18,
+        "d": 36,
+        "gm": 2.0,
+        "gs": 2.0,
+        "p1": 59,
+        "p2": 41,
+        "o25": 82,
+        "btts": 73,
+        "jogos_analisados": 11
       },
       {
         "t": "Racing Club de Lens",
@@ -1159,6 +1146,19 @@
         "p2": 61,
         "o25": 73,
         "btts": 82,
+        "jogos_analisados": 11
+      },
+      {
+        "t": "FC Lorient",
+        "v": 36,
+        "e": 36,
+        "d": 27,
+        "gm": 0.91,
+        "gs": 0.82,
+        "p1": 40,
+        "p2": 60,
+        "o25": 27,
+        "btts": 36,
         "jogos_analisados": 11
       },
       {
@@ -1227,30 +1227,30 @@
         "jogos_analisados": 11
       },
       {
-        "t": "Angers SCO",
-        "v": 20,
-        "e": 20,
-        "d": 60,
-        "gm": 0.9,
-        "gs": 1.9,
-        "p1": 44,
-        "p2": 56,
-        "o25": 40,
-        "btts": 40,
-        "jogos_analisados": 10
+        "t": "Le Mans FC",
+        "v": 18,
+        "e": 45,
+        "d": 36,
+        "gm": 1.36,
+        "gs": 1.91,
+        "p1": 40,
+        "p2": 60,
+        "o25": 64,
+        "btts": 82,
+        "jogos_analisados": 11
       },
       {
-        "t": "Le Mans FC",
-        "v": 10,
-        "e": 50,
-        "d": 40,
-        "gm": 1.2,
-        "gs": 1.9,
-        "p1": 50,
-        "p2": 50,
-        "o25": 60,
-        "btts": 80,
-        "jogos_analisados": 10
+        "t": "Angers SCO",
+        "v": 18,
+        "e": 18,
+        "d": 64,
+        "gm": 0.82,
+        "gs": 2.09,
+        "p1": 44,
+        "p2": 56,
+        "o25": 45,
+        "btts": 36,
+        "jogos_analisados": 11
       },
       {
         "t": "Le Havre AC",
@@ -1548,29 +1548,29 @@
       },
       {
         "t": "Fluminense FC",
-        "v": 49,
-        "e": 26,
-        "d": 26,
-        "gm": 1.6,
-        "gs": 1.2,
-        "p1": 41,
-        "p2": 59,
-        "o25": 57,
-        "btts": 69,
-        "jogos_analisados": 35
+        "v": 50,
+        "e": 25,
+        "d": 25,
+        "gm": 1.58,
+        "gs": 1.17,
+        "p1": 40,
+        "p2": 60,
+        "o25": 56,
+        "btts": 67,
+        "jogos_analisados": 36
       },
       {
         "t": "CA Paranaense",
-        "v": 43,
-        "e": 26,
+        "v": 44,
+        "e": 25,
         "d": 31,
-        "gm": 1.49,
-        "gs": 1.29,
+        "gm": 1.56,
+        "gs": 1.31,
         "p1": 54,
         "p2": 46,
-        "o25": 51,
-        "btts": 60,
-        "jogos_analisados": 35
+        "o25": 53,
+        "btts": 61,
+        "jogos_analisados": 36
       },
       {
         "t": "CA Mineiro",
@@ -1586,6 +1586,19 @@
         "jogos_analisados": 35
       },
       {
+        "t": "RB Bragantino",
+        "v": 39,
+        "e": 22,
+        "d": 39,
+        "gm": 1.28,
+        "gs": 1.14,
+        "p1": 54,
+        "p2": 46,
+        "o25": 42,
+        "btts": 53,
+        "jogos_analisados": 36
+      },
+      {
         "t": "EC Bahia",
         "v": 39,
         "e": 33,
@@ -1597,19 +1610,6 @@
         "o25": 50,
         "btts": 61,
         "jogos_analisados": 36
-      },
-      {
-        "t": "RB Bragantino",
-        "v": 37,
-        "e": 23,
-        "d": 40,
-        "gm": 1.29,
-        "gs": 1.17,
-        "p1": 56,
-        "p2": 44,
-        "o25": 43,
-        "btts": 54,
-        "jogos_analisados": 35
       },
       {
         "t": "Santos FC",
@@ -1626,16 +1626,16 @@
       },
       {
         "t": "CR Vasco da Gama",
-        "v": 37,
-        "e": 23,
-        "d": 40,
-        "gm": 1.34,
-        "gs": 1.46,
+        "v": 36,
+        "e": 22,
+        "d": 42,
+        "gm": 1.31,
+        "gs": 1.44,
         "p1": 30,
         "p2": 70,
-        "o25": 60,
-        "btts": 63,
-        "jogos_analisados": 35
+        "o25": 58,
+        "btts": 61,
+        "jogos_analisados": 36
       },
       {
         "t": "São Paulo FC",
@@ -1704,16 +1704,16 @@
       },
       {
         "t": "Mirassol FC",
-        "v": 29,
+        "v": 28,
         "e": 31,
-        "d": 40,
-        "gm": 1.11,
-        "gs": 1.37,
+        "d": 42,
+        "gm": 1.08,
+        "gs": 1.36,
         "p1": 54,
         "p2": 46,
-        "o25": 46,
-        "btts": 63,
-        "jogos_analisados": 35
+        "o25": 44,
+        "btts": 61,
+        "jogos_analisados": 36
       },
       {
         "t": "SC Internacional",
@@ -1743,16 +1743,16 @@
       },
       {
         "t": "Clube do Remo",
-        "v": 20,
+        "v": 19,
         "e": 31,
-        "d": 49,
-        "gm": 1.11,
-        "gs": 1.63,
-        "p1": 46,
-        "p2": 54,
-        "o25": 49,
-        "btts": 60,
-        "jogos_analisados": 35
+        "d": 50,
+        "gm": 1.14,
+        "gs": 1.69,
+        "p1": 44,
+        "p2": 56,
+        "o25": 50,
+        "btts": 61,
+        "jogos_analisados": 36
       },
       {
         "t": "Chapecoense AF",
