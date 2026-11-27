@@ -1638,6 +1638,19 @@
         "jogos_analisados": 36
       },
       {
+        "t": "São Paulo FC",
+        "v": 35,
+        "e": 24,
+        "d": 41,
+        "gm": 1.16,
+        "gs": 1.14,
+        "p1": 47,
+        "p2": 53,
+        "o25": 38,
+        "btts": 57,
+        "jogos_analisados": 37
+      },
+      {
         "t": "Coritiba FBC",
         "v": 33,
         "e": 25,
@@ -1661,19 +1674,6 @@
         "p2": 52,
         "o25": 44,
         "btts": 44,
-        "jogos_analisados": 36
-      },
-      {
-        "t": "São Paulo FC",
-        "v": 33,
-        "e": 25,
-        "d": 42,
-        "gm": 1.11,
-        "gs": 1.14,
-        "p1": 48,
-        "p2": 52,
-        "o25": 36,
-        "btts": 56,
         "jogos_analisados": 36
       },
       {
@@ -1744,15 +1744,15 @@
       {
         "t": "Clube do Remo",
         "v": 19,
-        "e": 31,
-        "d": 50,
+        "e": 30,
+        "d": 51,
         "gm": 1.14,
-        "gs": 1.69,
-        "p1": 44,
-        "p2": 56,
-        "o25": 50,
-        "btts": 61,
-        "jogos_analisados": 36
+        "gs": 1.73,
+        "p1": 43,
+        "p2": 57,
+        "o25": 51,
+        "btts": 62,
+        "jogos_analisados": 37
       },
       {
         "t": "Chapecoense AF",
